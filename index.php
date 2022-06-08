@@ -46,7 +46,7 @@
                 <div class="modal-header " style="flex-direction:column">
                     <h1 class="text-center">Yey!</h1><br>
                     <h5 class="modal-title text-center ">Join Demo Sessions By
-                        <br>DABOTICS
+                        <br>DABiOTICS
                     </h5>
                     <div class="mt-5 text-center"><a class="btn1" href="WebdevSession.php">Web Development</a>
 
