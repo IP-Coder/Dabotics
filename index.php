@@ -224,7 +224,7 @@
                                 <div class="social">
                                     <a href=""><i class="ri-twitter-fill"></i></a>
                                     <a href=""><i class="ri-facebook-fill"></i></a>
-                                    <a href=""><i class="ri-instagram-fill"></i></a>
+                                    <a href="https://www.instagram.com/pranjal.9.0.4.4/" target="_blank"><i class="ri-instagram-fill"></i></a>
                                     <a href="https://www.linkedin.com/in/devilcoder/" target="_blank"> <i class="ri-linkedin-box-fill"></i> </a>
                                 </div>
                             </div>
@@ -244,7 +244,7 @@
                                 <div class="social">
                                     <a href=""><i class="ri-twitter-fill"></i></a>
                                     <a href=""><i class="ri-facebook-fill"></i></a>
-                                    <a href=""><i class="ri-instagram-fill"></i></a>
+                                    <a href="https://www.instagram.com/surajsinhar7/" target="_blank"><i class="ri-instagram-fill"></i></a>
                                     <a href="https://www.linkedin.com/in/suraj-kumar-1a525a1a7/" target="_blank"> <i class="ri-linkedin-box-fill"></i> </a>
                                 </div>
                             </div>
