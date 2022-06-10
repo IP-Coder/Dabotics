@@ -259,7 +259,7 @@
                                     <a href=""><i class="ri-twitter-fill"></i></a>
                                     <a href=""><i class="ri-facebook-fill"></i></a>
                                     <a href=""><i class="ri-instagram-fill"></i></a>
-                                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                                    <a href="https://www.linkedin.com/in/prakharsarswat/"> <i class="ri-linkedin-box-fill"></i> </a>
                                 </div>
                             </div>
                         </div>
