@@ -218,6 +218,7 @@
                             <div class="pic"><img src="assets/img/team/team-2.png" class="img-fluid" alt=""></div>
                             <div class="member-info">
                                 <h4>Pranjal Shrivastava</h4>
+                                <h6>From Invertis University</h6>
                                 <span>Co-Founder</span>
                                 <p>Believe In Working Not In Thinking</p>
                                 <div class="social">
@@ -254,6 +255,7 @@
                             <div class="pic"><img src="assets/img/team/team-4.png" class="img-fluid" alt=""></div>
                             <div class="member-info">
                                 <h4>Er. Prakhar Sarswat</h4>
+                                <h6>From Samsung Electronics</h6>
                                 <span>CTO</span>
                                 <p>Don't stop Chasing your Dreams ,Beacause Dream Do Come True</p>
                                 <div class="social">
