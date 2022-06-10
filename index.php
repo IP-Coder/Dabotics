@@ -238,7 +238,7 @@
                             <div class="member-info">
                                 <h4>Suraj Kumar</h4>
                                 <span>SDE, Python Trainer</span>
-                                <p>Don't stop Chasing your Dreams ,Beacause Dream Do Come True</p>
+                                <p>Addition of small steps let you closer to yous goal</p>
                                 <div class="social">
                                     <a href=""><i class="ri-twitter-fill"></i></a>
                                     <a href=""><i class="ri-facebook-fill"></i></a>
