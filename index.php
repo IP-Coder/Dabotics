@@ -237,7 +237,7 @@
                             <div class="pic"><img src="assets/img/team/team-3.png" class="img-fluid" alt=""></div>
                             <div class="member-info">
                                 <h4>Suraj Kumar</h4>
-                                <span>SDE</span>
+                                <span>SDE, Python Trainer</span>
                                 <p>Don't stop Chasing your Dreams ,Beacause Dream Do Come True</p>
                                 <div class="social">
                                     <a href=""><i class="ri-twitter-fill"></i></a>
