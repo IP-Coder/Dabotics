@@ -237,6 +237,7 @@
                             <div class="pic"><img src="assets/img/team/team-3.png" class="img-fluid" alt=""></div>
                             <div class="member-info">
                                 <h4>Suraj Kumar</h4>
+                                <h5>From Chandigarh University</h5>
                                 <span>SDE, Python Trainer</span>
                                 <p>Addition of small steps let you closer to yous goal</p>
                                 <div class="social">
