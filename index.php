@@ -257,7 +257,7 @@
                                 <h4>Er. Prakhar Sarswat</h4>
                                 <h6>From Samsung Electronics</h6>
                                 <span>CTO</span>
-                                <p>Don't stop Chasing your Dreams ,Beacause Dream Do Come True</p>
+                                <p>Don't stop Chasing your Dreams, Beacause Dream</p>
                                 <div class="social">
                                     <a href=""><i class="ri-twitter-fill"></i></a>
                                     <a href=""><i class="ri-facebook-fill"></i></a>
