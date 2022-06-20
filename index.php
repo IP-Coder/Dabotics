@@ -277,7 +277,7 @@
                             <div class="member-info">
                                 <h4>Krishna Gupta</h4>
                                 <!-- <h6>From Chandigarh University</h6> -->
-                                <span>Managing Director at Dabotics India Pvt. Ltd</span>
+                                <span>Managing Director</span>
                                 <p>Addition of small steps let you closer to yous goal</p>
                                 <div class="social">
                                     <a href=""><i class="ri-twitter-fill"></i></a>
