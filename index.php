@@ -255,7 +255,7 @@
                             <div class="pic"><img src="assets/img/team/team-4.png" class="img-fluid" alt=""></div>
                             <div class="member-info">
                                 <h4>Er. Prakhar Sarswat</h4>
-                                <h6>From Samsung Electronics</h6>
+                                <!-- <h6>From Samsung Electronics</h6> -->
                                 <span>CTO</span>
                                 <p>Don't stop Chasing your Dreams, Beacause Dream</p>
                                 <div class="social">
@@ -267,7 +267,27 @@
                             </div>
                         </div>
                     </div>
+                </div>
 
+                <div class="row mt-5">
+
+                    <div class="col-lg-6">
+                        <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
+                            <div class="pic"><img src="assets/img/team/team-5.png" class="img-fluid" alt=""></div>
+                            <div class="member-info">
+                                <h4>Krishna Gupta</h4>
+                                <!-- <h6>From Chandigarh University</h6> -->
+                                <span>Managing Director at Dabotics India Pvt. Ltd</span>
+                                <p>Addition of small steps let you closer to yous goal</p>
+                                <div class="social">
+                                    <a href=""><i class="ri-twitter-fill"></i></a>
+                                    <a href=""><i class="ri-facebook-fill"></i></a>
+                                    <a href="https://www.instagram.com/surajsinhar7/" target="_blank"><i class="ri-instagram-fill"></i></a>
+                                    <a href="https://www.linkedin.com/in/krishna-gupta-8416a9242/" target="_blank"> <i class="ri-linkedin-box-fill"></i> </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
             </div>
