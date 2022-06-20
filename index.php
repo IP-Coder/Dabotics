@@ -255,11 +255,7 @@
                             <div class="pic"><img src="assets/img/team/team-4.png" class="img-fluid" alt=""></div>
                             <div class="member-info">
                                 <h4>Er. Prakhar Sarswat</h4>
-<<<<<<< HEAD
                                 <!-- <h6>From Samsung Electronics</h6> -->
-=======
-                           <h6>From Samsung Electronics</h6>
->>>>>>> 03a72d5af035a956158cece4900b22995f248894
                                 <span>CTO</span>
                                 <p>Don't stop Chasing your Dreams ,Beacause Dream Do Come True</p>
                                 <div class="social">
