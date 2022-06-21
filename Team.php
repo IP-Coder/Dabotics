@@ -52,7 +52,7 @@
 
                     <div class="col-lg-6">
                         <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
-                            <div class="pic"><img src="assets/img/team/team-1.png" class="img-fluid" alt=""></div>
+                            <div class="pic"><img src="assets/img/team/team-2.png" class="img-fluid" alt=""></div>
                             <div class="member-info">
                                 <h4>Sachin Shrivastava</h4>
                                 <span>Founder</span>
