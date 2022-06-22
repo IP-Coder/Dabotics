@@ -27,8 +27,8 @@
 }
 
 .img-fluid {
-    max-width: 150px;
-    height: 150px;
+    max-width: 8rem;
+    height: fit-content;
 }
 </style>
 
