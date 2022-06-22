@@ -91,10 +91,166 @@
         <!--    </div>-->
         <!--</section>< End Why Us Section -->
 
-        
-        <?php
-        include 'Success.php';
-        ?>
+        <!-- ======= Services Section ======= -->
+        <section id="services" class="services section-bg">
+            <div class="container" data-aos="fade-up">
+
+                <div class="section-title">
+                    <h2>Services</h2>
+                    <p>Its all began with a group of people who dreamt of starting something completely new. Together ,
+                        we
+                        established Dabotics India , a company dedicated to finding cuting-edge solution and providing
+                        great
+                        services.<br>
+                        Our Product and Services were designed to satisfy all of our custumers, anytime, anywhere . we
+                        are
+                        committed to customer satisfaction as our top priority. if you want to learn more about how we
+                        do
+                        business, give us a call today.</p>
+                </div>
+
+                <div class="row" style="justify-content: center;">
+                    <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+                        <div class="icon-box">
+                            <div class="icon"><i class="bx bxl-dribbble"></i></div>
+                            <h4><a href="Workshop.php">Workshop</a></h4>
+                            <p>We will provide the best guidance in building a career road map according to the
+                                candidate's dream job.</p>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in"
+                        data-aos-delay="200">
+                        <div class="icon-box">
+                            <div class="icon"><i class="bx bx-file"></i></div>
+                            <h4><a href="ProjectAssistance.php">Project Assistance </a></h4>
+                            <p>We will provide the best guidance in building project on their own ideas.</p>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in"
+                        data-aos-delay="300">
+                        <div class="icon-box">
+                            <div class="icon"><i class="bx bx-tachometer"></i></div>
+                            <h4><a href="LabSetup.php">Lab Setup</a></h4>
+                            <p>DABOTICS serves as a platform for promotion of World class Innovation Hubs, by ROBOTICS &
+                                AI</p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section><!-- End Services Sectin -->
+
+        <!-- ======= Team Section ======= -->
+        <section id="team" class="team section-bg">
+            <div class="container" data-aos="fade-up">
+
+                <div class="section-title">
+                    <h2>Team</h2>
+                    <p>We continuously bulding a great team to teach you in a great manner.<br>Feel free to get
+                        connected with our team</p>
+                </div>
+
+                <div class="row">
+
+                    <div class="col-lg-6">
+                        <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
+                            <div class="pic"><img src="assets/img/team/team-1.png" class="img-fluid" alt=""></div>
+                            <div class="member-info">
+                                <h4>Sachin Shrivastava</h4>
+                                <span>Founder</span>
+                                <p>Don't stop Chasing your Dreams ,Beacause Dream Do Come True</p>
+                                <div class="social">
+                                    <a href=""><i class="ri-twitter-fill"></i></a>
+                                    <a href=""><i class="ri-facebook-fill"></i></a>
+                                    <a href=""><i class="ri-instagram-fill"></i></a>
+                                    <a href=""> <i class="ri-linkedin-box-fill" target="_blank"></i> </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 mt-4 mt-lg-0">
+                        <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="200">
+                            <div class="pic"><img src="assets/img/team/team-2.png" class="img-fluid" alt=""></div>
+                            <div class="member-info">
+                                <h4>Pranjal Shrivastava</h4>
+                                <h6>From Invertis University</h6>
+                                <span>Co-Founder</span>
+                                <p>Believe In Working Not In Thinking</p>
+                                <div class="social">
+                                    <a href=""><i class="ri-twitter-fill"></i></a>
+                                    <a href=""><i class="ri-facebook-fill"></i></a>
+                                    <a href="https://www.instagram.com/pranjal.9.0.4.4/" target="_blank"><i class="ri-instagram-fill"></i></a>
+                                    <a href="https://www.linkedin.com/in/devilcoder/" target="_blank"> <i class="ri-linkedin-box-fill"></i> </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-5">
+
+                    <div class="col-lg-6">
+                        <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
+                            <div class="pic"><img src="assets/img/team/team-3.png" class="img-fluid" alt=""></div>
+                            <div class="member-info">
+                                <h4>Suraj Kumar</h4>
+                                <h6>From Chandigarh University</h6>
+                                <span>SDE, Python Trainer</span>
+                                <p>Addition of small steps let you closer to yous goal</p>
+                                <div class="social">
+                                    <a href=""><i class="ri-twitter-fill"></i></a>
+                                    <a href=""><i class="ri-facebook-fill"></i></a>
+                                    <a href="https://www.instagram.com/surajsinhar7/" target="_blank"><i class="ri-instagram-fill"></i></a>
+                                    <a href="https://www.linkedin.com/in/suraj-kumar-1a525a1a7/" target="_blank"> <i class="ri-linkedin-box-fill"></i> </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
+                            <div class="pic"><img src="assets/img/team/team-4.png" class="img-fluid" alt=""></div>
+                            <div class="member-info">
+                                <h4>Er. Prakhar Sarswat</h4>
+                                <!-- <h6>From Samsung Electronics</h6> -->
+                                <span>CTO</span>
+                                <p>Don't stop Chasing your Dreams ,Beacause Dream Do Come True</p>
+                                <div class="social">
+                                    <a href=""><i class="ri-twitter-fill"></i></a>
+                                    <a href=""><i class="ri-facebook-fill"></i></a>
+                                    <a href=""><i class="ri-instagram-fill"></i></a>
+                                    <a href="https://www.linkedin.com/in/prakharsarswat/" target="_blank"> <i class="ri-linkedin-box-fill"></i> </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row mt-5">
+
+                    <div class="col-lg-6">
+                        <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
+                            <div class="pic"><img src="assets/img/team/team-5.png" class="img-fluid" alt=""></div>
+                            <div class="member-info">
+                                <h4>Krishna Gupta</h4>
+                                <!-- <h6>From Chandigarh University</h6> -->
+                                <span>Managing Director</span>
+                                <p>Addition of small steps let you closer to yous goal</p>
+                                <div class="social">
+                                    <a href=""><i class="ri-twitter-fill"></i></a>
+                                    <a href=""><i class="ri-facebook-fill"></i></a>
+                                    <a href="https://www.instagram.com/surajsinhar7/" target="_blank"><i class="ri-instagram-fill"></i></a>
+                                    <a href="https://www.linkedin.com/in/krishna-gupta-8416a9242/" target="_blank"> <i class="ri-linkedin-box-fill"></i> </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section><!-- End Team Section -->
+
         <!-- ======= Pricing Section ======= -->
         <section id="pricing" class="pricing">
             <div class="container" data-aos="fade-up">
@@ -317,7 +473,72 @@
             </div>
         </section><!-- End Frequently Asked Questions Section -->
 
-       
+        <!-- ======= Contact Section ======= -->
+        <section id="contact" class="contact">
+            <div class="container" data-aos="fade-up">
+
+                <div class="section-title">
+                    <h2>Contact</h2>
+                    <p>Need an expert ? You are more than welcomed to leave your contact info and we will be in touch
+                        shortly.</p>
+                </div>
+
+                <div class="row">
+
+                    <div class="col-lg-5 d-flex align-items-stretch">
+                        <div class="info">
+                            <div class="address">
+                                <i class="bi bi-geo-alt"></i>
+                                <h4>Location:</h4>
+                                <p>C-99 SECOND FLOOR SECTOR- 2 <br>
+                                    NOIDA UTTAR PRADESH<br>
+                                    India <br> </p>
+                            </div>
+
+                            <div class="email">
+                                <i class="bi bi-envelope"></i>
+                                <h4>Email:</h4>
+                                <p>contact@dabotics.com</p>
+                            </div>
+
+                            <div class="phone">
+                                <i class="bi bi-phone"></i>
+                                <h4>Call:</h4>
+                                <p>+91 8936938690, +91 9368850126</p>
+                            </div>
+                            <img src="assets/img/contact.png" alt="">
+                        </div>
+                    </div>
+
+                    <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
+                        <form action="COnus.php" method="post" role="form" class="php-email-form">
+                            <div class="row">
+                                <div class="form-group col-md-6">
+                                    <label for="name">Your Name</label>
+                                    <input type="text" name="name" class="form-control" id="name" required>
+                                </div>
+                                <div class="form-group col-md-6">
+                                    <label for="name">Your Email</label>
+                                    <input type="email" class="form-control" name="email" id="email" required>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="name">Subject</label>
+                                <input type="text" class="form-control" name="subject" id="subject" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="name">Message</label>
+                                <textarea class="form-control" name="message" rows="10" required></textarea>
+                            </div>
+                            <div class="text-center"><button type="submit">Send Message</button></div>
+                        </form>
+                    </div>
+
+                </div>
+
+            </div>
+        </section>
+        <!-- End Contact Section -->
 
     </main><!-- End #main -->
 
