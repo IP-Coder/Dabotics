@@ -7,13 +7,12 @@
     <?php
     include 'Header.php'
     ?>
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
-    <script>
-    $(document).ready(function() {
-        $("#myModal").modal('show');
-    });
-    </script>
+    <style>
+        .img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+    </style>
 </head>
 <body>
     <!-- ======= Header ======= -->
@@ -44,53 +43,6 @@
     </section><!-- End Hero -->
 
     <main id="main">
-
-        <!-- ======= Why Us Section ======= -->
-        <!--<section id="why-us" class="why-us section-bg" style="padding-top:0; padding-bottom: 3rem;">-->
-        <!--    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">-->
-        <!--        <div class="carousel-inner">-->
-        <!--            <div class="carousel-item active">-->
-        <!--                <img src="https://source.unsplash.com/3000x1000/?AI,Robotics" class="d-block w-100" alt="...">-->
-        <!--            </div>-->
-        <!--            <div class="carousel-item">-->
-        <!--                <img src="https://source.unsplash.com/3000x1000/?Machine,Workshops" class="d-block w-100"-->
-        <!--                    alt="...">-->
-        <!--            </div>-->
-        <!--            <div class="carousel-item">-->
-        <!--                <img src="https://source.unsplash.com/3000x1000/?MachineLearning,Education"-->
-        <!--                    class="d-block w-100" alt="...">-->
-        <!--            </div>-->
-
-        <!-- Tring  -->
-
-        <!--            <div class="row">-->
-        <!--                <div class="col croslbtn">-->
-        <!--                    <div class="buttonsof_mine">-->
-        <!--                        <h4>Upcomming Events</h4>-->
-        <!--                        <a href="">Click Here</a>-->
-        <!--                    </div>-->
-        <!--                </div>-->
-        <!--                <div class="col croslbtn">-->
-        <!--                    <div class="buttonsof_mine">-->
-        <!--                        <h4>Certificate Verification</h4>-->
-        <!--                        <a href="">Click here</a>-->
-        <!--                    </div>-->
-        <!--                </div>-->
-        <!--            </div>-->
-        <!--        </div>-->
-        <!--        <button class="carousel-control-prev" type="button" data-target="#carouselExampleControls"-->
-        <!--            data-slide="prev">-->
-        <!--            <span class="carousel-control-prev-icon" aria-hidden="true"></span>-->
-        <!--            <span class="sr-only">Previous</span>-->
-        <!--        </button>-->
-        <!--        <button class="carousel-control-next" type="button" data-target="#carouselExampleControls"-->
-        <!--            data-slide="next">-->
-        <!--            <span class="carousel-control-next-icon" aria-hidden="true"></span>-->
-        <!--            <span class="sr-only">Next</span>-->
-        <!--        </button>-->
-        <!--    </div>-->
-        <!--</section>< End Why Us Section -->
-
         <!-- ======= Services Section ======= -->
         <section id="services" class="services section-bg">
             <div class="container" data-aos="fade-up">
