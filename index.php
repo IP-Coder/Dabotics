@@ -9,8 +9,8 @@
     ?>
     <style>
         .img-fluid {
-    max-width: 100%;
-    height: auto;
+    max-width: 8rem;
+    height: fit-content;
 }
     </style>
 </head>
