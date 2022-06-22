@@ -15,37 +15,7 @@
     });
     </script>
 </head>
-<style>
-.btn1 {
-    background: #47b2e4;
-    border: 0;
-    padding: 12px 34px;
-    color: #fff;
-    transition: 0.4s;
-    border-radius: 50px;
-}
-}
-</style>
-
 <body>
-    <div id="myModal" class="modal fade">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header " style="flex-direction:column">
-                    <h1 class="text-center">Yey!</h1><br>
-                    <h5 class="modal-title text-center ">Join Demo Sessions By
-                        <br>DABOTICS
-                    </h5>
-                    <div class="mt-5 text-center"><a class="btn1" href="WebdevSession.php">Web Development</a>
-
-                    </div>
-                    <div class="mt-5 text-center"><a class="btn1" href="AiMl.php">Ai / ML with python</a>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
     <!-- ======= Header ======= -->
     <?php
     include 'Navebar.php'
