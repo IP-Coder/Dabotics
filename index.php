@@ -92,7 +92,9 @@
         <!--</section>< End Why Us Section -->
 
         
-        
+        <?php
+        include 'Success.php';
+        ?>
         <!-- ======= Pricing Section ======= -->
         <section id="pricing" class="pricing">
             <div class="container" data-aos="fade-up">
