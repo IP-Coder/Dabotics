@@ -90,11 +90,7 @@
         <!--        </button>-->
         <!--    </div>-->
         <!--</section>< End Why Us Section -->
-  <?php
-        include 'Success.php';
-        include 'Team.php';
-        
-    ?>
+
         
         
         <!-- ======= Pricing Section ======= -->
@@ -319,9 +315,7 @@
             </div>
         </section><!-- End Frequently Asked Questions Section -->
 
-          <?php
-    include 'Contactus.php'
-    ?>
+       
 
     </main><!-- End #main -->
 
