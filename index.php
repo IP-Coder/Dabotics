@@ -24,18 +24,6 @@
     transition: 0.4s;
     border-radius: 50px;
 }
-
-.team .member .pic {
-    overflow: hidden;
-    height: 150px;
-    width: 200px;
-
-
-}
-
-.img-fluid {
-    max-width: 150px;
-    height: 150px;
 }
 </style>
 
