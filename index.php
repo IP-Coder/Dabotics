@@ -108,7 +108,7 @@
 
                     <div class="col-lg-6">
                         <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
-                            <div class="pic"><img src="assets/img/team/team-1.png" class="img-fluid" alt=""></div>
+                            <div class="pic"><img src="assets/img/team/team-1.webp" class="img-fluid" alt=""></div>
                             <div class="member-info">
                                 <h4>Sachin Shrivastava</h4>
                                 <span>Founder</span>
@@ -125,7 +125,7 @@
 
                     <div class="col-lg-6 mt-4 mt-lg-0">
                         <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="200">
-                            <div class="pic"><img src="assets/img/team/team-2.png" class="img-fluid" alt=""></div>
+                            <div class="pic"><img src="assets/img/team/team-2.webp" class="img-fluid" alt=""></div>
                             <div class="member-info">
                                 <h4>Pranjal Shrivastava</h4>
                                 <span>Co-Founder</span>
@@ -144,7 +144,7 @@
 
                     <div class="col-lg-6">
                         <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
-                            <div class="pic"><img src="assets/img/team/team-3.png" class="img-fluid" alt=""></div>
+                            <div class="pic"><img src="assets/img/team/team-3.webp" class="img-fluid" alt=""></div>
                             <div class="member-info">
                                 <h4>Suraj Kumar</h4>
                                 <span>SDE, Python Trainer</span>
@@ -160,7 +160,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
-                            <div class="pic"><img src="assets/img/team/team-4.png" class="img-fluid" alt=""></div>
+                            <div class="pic"><img src="assets/img/team/team-4.webp" class="img-fluid" alt=""></div>
                             <div class="member-info">
                                 <h4>Er. Prakhar Sarswat</h4>
                                 <!-- <h6>From Samsung Electronics</h6> -->
@@ -181,7 +181,7 @@
 
                     <div class="col-lg-6">
                         <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
-                            <div class="pic"><img src="assets/img/team/team-5.png" class="img-fluid" alt=""></div>
+                            <div class="pic"><img src="assets/img/team/team-5.webp" class="img-fluid" alt=""></div>
                             <div class="member-info">
                                 <h4>Krishna Gupta</h4>
                                 <!-- <h6>From Chandigarh University</h6> -->
