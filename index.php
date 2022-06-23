@@ -129,7 +129,7 @@
                             <div class="member-info">
                                 <h4>Pranjal Shrivastava</h4>
                                 <span>Co-Founder</span>
-                                <p>Believe In Working Not In Thinking</p>
+                                <p>Perfection is achieved when there is nothing more to take away.</p>
                                 <div class="social">
                                     <a href=""><i class="ri-twitter-fill"></i></a>
                                     <a href=""><i class="ri-facebook-fill"></i></a>
@@ -139,66 +139,11 @@
                             </div>
                         </div>
                     </div>
+                     <div style="text-align: center; margin-top:4%">
+                    <a href="Team.php" class="buy-btn">Meet All Others</a>
+
                 </div>
-                <div class="row mt-5">
-
-                    <div class="col-lg-6">
-                        <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
-                            <div class="pic"><img src="assets/img/team/team-3.webp" class="img-fluid" alt=""></div>
-                            <div class="member-info">
-                                <h4>Suraj Kumar</h4>
-                                <span>SDE, Python Trainer</span>
-                                <p>Addition of small steps let you closer to yous goal</p>
-                                <div class="social">
-                                    <a href=""><i class="ri-twitter-fill"></i></a>
-                                    <a href=""><i class="ri-facebook-fill"></i></a>
-                                    <a href="https://www.instagram.com/surajsinhar7/" target="_blank"><i class="ri-instagram-fill"></i></a>
-                                    <a href="https://www.linkedin.com/in/suraj-kumar-1a525a1a7/" target="_blank"> <i class="ri-linkedin-box-fill"></i> </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
-                            <div class="pic"><img src="assets/img/team/team-4.webp" class="img-fluid" alt=""></div>
-                            <div class="member-info">
-                                <h4>Er. Prakhar Sarswat</h4>
-                                <!-- <h6>From Samsung Electronics</h6> -->
-                                <span>CTO</span>
-                                <p>Technology is best when it brings people together</p>
-                                <div class="social">
-                                    <a href=""><i class="ri-twitter-fill"></i></a>
-                                    <a href=""><i class="ri-facebook-fill"></i></a>
-                                    <a href=""><i class="ri-instagram-fill"></i></a>
-                                    <a href="https://www.linkedin.com/in/prakharsarswat/" target="_blank"> <i class="ri-linkedin-box-fill"></i> </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                 </div>
-
-                <div class="row mt-5">
-
-                    <div class="col-lg-6">
-                        <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
-                            <div class="pic"><img src="assets/img/team/team-5.webp" class="img-fluid" alt=""></div>
-                            <div class="member-info">
-                                <h4>Krishna Gupta</h4>
-                                <!-- <h6>From Chandigarh University</h6> -->
-                                <span>Managing Director</span>
-                                <p>Addition of small steps let you closer to yous goal</p>
-                                <div class="social">
-                                    <a href=""><i class="ri-twitter-fill"></i></a>
-                                    <a href=""><i class="ri-facebook-fill"></i></a>
-                                    <a href="https://www.instagram.com/surajsinhar7/" target="_blank"><i class="ri-instagram-fill"></i></a>
-                                    <a href="https://www.linkedin.com/in/krishna-gupta-8416a9242/" target="_blank"> <i class="ri-linkedin-box-fill"></i> </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
         </section><!-- End Team Section -->
 
         <!-- ======= Pricing Section ======= -->
