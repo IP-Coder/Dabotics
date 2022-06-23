@@ -141,7 +141,8 @@
                     </div>
                      
                 </div>
-                <div style="text-align: center; margin-top:4%">
+            </div>
+                <div class ="pricing" style="text-align: center; margin-top:4%">
                     <a href="Team.php" class="buy-btn">Meet All Others</a>
 
                 </div>
