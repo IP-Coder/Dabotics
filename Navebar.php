@@ -23,7 +23,7 @@
                                 <a href="" style="color:red;" >Username</a>
                                 <a href="app.php?hh=hjj">My Course</a>
                                 <a href="#">Link 2</a>
-                                <a href="#">Log out</a>
+                                <a href="app.php?logout=OUT">Log out</a>
                             </div>
                         </div>
                     </li>

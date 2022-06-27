@@ -1,9 +1,23 @@
 <?php
     session_start();
-    $username;
+    // $username;
 
     function sessioncheck(){
-        $_SESSION["username"] == $username;
+        if($_SESSION["username"] == 'Suraj'){
+            header("Location: mycourse.php");
+        }
+
+    }
+
+    function loout(){
+        session_unset();
+        session_destroy();
+        header("Location: login.php");
+    }
+
+    $lout = $_GET['logout'];
+    if($lout=="OUT"){
+        loout();
     }
 
     if($_SERVER["REQUEST_METHOD"]== "GET"){
@@ -15,11 +29,11 @@
     }
 
     if ($_SERVER["REQUEST_METHOD"] == "POST"){
-        $username = $_POST["usernaam"];
+        $GLOBALS['username'] = $_POST["usernaam"];
         $password = $_POST["password"];
         if($username == "Suraj" && $password == "Zebronic"){
-            header("Location: index.php ");
-            $_SESSION["username"] = $username;
+            header("Location: index.php");
+            $_SESSION["username"] = $GLOBALS['username'];
         }
     }
 
