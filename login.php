@@ -1,14 +1,6 @@
 <?php
     // include 'Connection.php';
-
-    if ($_SERVER["REQUEST_METHOD"] == "POST") {
-        $username = $_POST["usernaam"];
-        $password = $_POST["password"];
-        if($username == "Suraj" && $password == "Zebronic"){
-            header("Location: index.php");
-        }
-    }
-    
+    include 'app.php'
 ?>
 <!doctype html>
 <html lang="en">
@@ -82,7 +74,7 @@
                         <h3 class="text-center mb-4">Login</h3>
                         <!-- <h3 class="text-center mb-4">Have an account?</h3> -->
 
-                        <form action="login.php" method="post" class="login-form">
+                        <form action="app.php" method="POST" class="login-form">
                             <div class="form-group">
                                 <input type="text" name="usernaam" class="form-control rounded-left" placeholder="ID"
                                     required>
