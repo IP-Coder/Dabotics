@@ -1,3 +1,15 @@
+<?php
+    // include 'Connection.php';
+
+    if ($_SERVER["REQUEST_METHOD"] == "POST") {
+        $username = $_POST["usernaam"];
+        $password = $_POST["password"];
+        if($username == "Suraj" && $password == "Zebronic"){
+            header("Location: index.php");
+        }
+    }
+    
+?>
 <!doctype html>
 <html lang="en">
 
@@ -10,8 +22,9 @@
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
-    <link rel="stylesheet" href="/assets/css/stylelogin.css">
+    <link rel="stylesheet" href="assets/css/stylelogin.css">
 
+        
     <style>
         body{
             background-color: #37517e;
@@ -69,7 +82,7 @@
                         <h3 class="text-center mb-4">Login</h3>
                         <!-- <h3 class="text-center mb-4">Have an account?</h3> -->
 
-                        <form action="/login" method='post' class="login-form">
+                        <form action="login.php" method="post" class="login-form">
                             <div class="form-group">
                                 <input type="text" name="usernaam" class="form-control rounded-left" placeholder="ID"
                                     required>
@@ -101,10 +114,10 @@
         </div>
     </section>
 
-    <script src="/assets/js/jquery.min.js"></script>
-    <script src="/assets/js/popper.js"></script>
-    <script src="/assets/js/bootstrap.min.js"></script>
-    <script src="/assets/js/main2.js"></script>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/popper.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/main2.js"></script>
 
 </body>
 

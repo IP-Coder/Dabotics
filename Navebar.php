@@ -13,6 +13,8 @@
                     <li><a class="nav-link scrollto target" href="Courses.php">Courses</a></li>
                     <li><a class="nav-link scrollto target" href="Team.php">Team</a></li>
                     <li><a class="nav-link scrollto target" href="Contactus.php">Contact</a></li>
+                    <li><a class="nav-link scrollto target" href="login.php">login</a></li>
+
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav><!-- .navbar -->
