@@ -15,13 +15,16 @@
         header("Location: login.php");
     }
 
-    $lout = $_GET['logout'];
+    $lout = $_GET['logout'];    //
     if($lout=="OUT"){
         loout();
     }
 
+    // $one;
     // if($_SERVER["REQUEST_METHOD"]== "GET"){
-        $one = $_GET["hh"];                         // giving as an ERROR
+        // if($_GET["hh"]){          // error
+            $one = $_GET["hh"];                 // giving as an ERROR
+        // }                        
     // }
 
     if ($one == "hjj"){
