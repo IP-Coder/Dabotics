@@ -20,9 +20,9 @@
         loout();
     }
 
-    if($_SERVER["REQUEST_METHOD"]== "GET"){
-        $one = $_GET["hh"];
-    }
+    // if($_SERVER["REQUEST_METHOD"]== "GET"){
+        $one = $_GET["hh"];                         // giving as an ERROR
+    // }
 
     if ($one == "hjj"){
         sessioncheck();
