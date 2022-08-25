@@ -29,7 +29,7 @@
     <!-- ======= Form Section ======= -->
     <section id="services" class="forms" style="margin-top: 60px;">
         <div class="container">
-            <h1 class=" text-center ">Registration</h1>
+            <h1 class=" text-center ">Registration Form</h1>
             
         </div>
         <div class="container my-5">
