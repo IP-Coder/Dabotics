@@ -53,8 +53,14 @@
                             *</sup></label>
                     <input type="text" name="coluni" required class="form-control" id="inputCity">
                 </div>
-                <div class="col-md-12">
-                    <label for="inputState" class="form-label">Why you want to join this session <sub> (optional)</sub>
+                <div class="col-md-6">
+                    <label for="inputState" class="form-label">Graduation Year <sup style="color: red;">*</sup>
+                    </label>
+                    <input type="text" name="mssg" required class="form-control" id="inputCity">
+
+                </div>
+                   <div class="col-md-6">
+                    <label for="inputState" class="form-label">Current Year <sup style="color: red;">*</sup>
                     </label>
                     <input type="text" name="mssg" required class="form-control" id="inputCity">
 
