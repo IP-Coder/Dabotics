@@ -3,7 +3,7 @@
 
 <head>
 
-    <title>Registration</title>
+    <title>Registration Form</title>
     <?php
     include 'Header.php'
     ?>
@@ -29,10 +29,10 @@
     <!-- ======= Form Section ======= -->
     <section id="services" class="forms" style="margin-top: 60px;">
         <div class="container">
-            <h1 class=" text-center">Registration</h1>
+            <h1 class=" text-center ">Registration</h1>
             
         </div>
-        <div class="container">
+        <div class="container my-5">
             <form class="row g-3" action="Success2.php" method="POST">
                 <div class="col-md-6">
                     <label for="inputEmail4" class="form-label">Name <sup style="color: red;"> *</sup></label>
