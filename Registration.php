@@ -29,13 +29,8 @@
     <!-- ======= Form Section ======= -->
     <section id="services" class="forms" style="margin-top: 60px;">
         <div class="container">
-            <h1 class=" text-center">Free International Webinar on Artificial Intelligence and Robotics</h1>
-            <p style="margin-top:20px;" class=" text-center">In this demo session, you will get an overview of the
-                Artificial Intelligence and Robotics opportunities in the
-                market along with the Internship Program details like the technologies you will learn, about the product
-                you will build, the certificates offered in the program, the program schedule, fees, and payment
-                options. Also, there will be a live coding demo where we will walk you through a simple web application
-                built from scratch.</p>
+            <h1 class=" text-center">Registration</h1>
+            
         </div>
         <div class="container">
             <form class="row g-3" action="Success2.php" method="POST">
