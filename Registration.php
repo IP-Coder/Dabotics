@@ -3,7 +3,7 @@
 
 <head>
 
-    <title>AiMl with python</title>
+    <title>Registration</title>
     <?php
     include 'Header.php'
     ?>
