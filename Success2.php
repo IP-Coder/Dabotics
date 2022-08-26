@@ -7,18 +7,18 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $email = $_POST["email"];
     $number = $_POST["number"];
     $clguni = $_POST["coluni"];
-    $messege = $_POST["mssg"];
+    $Gyear = $_POST["Gyear"];
+    $Cyear = $_POST["Cyear"];
     if (filter_var($email, FILTER_VALIDATE_EMAIL) && $name != "" && $email != "") {
-        
+
         // the message
-        $msg = "Name :- $name \nE-Mail :- $email \nMob. :- $number \nCollege / Uni. :- $clguni \nCourse = Ai/Ml with python";
+        $msg = "Name :- $name \nE-Mail :- $email \nMob. :- $number \nCollege / Uni. :- $clguni \n Graduation Year :- $Gyear \n Current Year :- $Cyear ";
 
         // use wordwrap() if lines are longer than 70 characters;
         $course = "Ai with python";
         // send email   
-        mail("dabotics@gmail.com","New Registration",$msg);
-        $sql = "INSERT INTO `Demo` (`Name`, `Email`, `Number`, `CllgUni`, `Message`,`Course`) VALUES ('$name','$email','$number','$clguni','$messege','$course')";
-
+        mail("dabotics@gmail.com", "New Registration", $msg);
+        $sql = "INSERT INTO `Registration` (`Name`, `Email`, `Number`, `CllgUni`, `Gyear`, `Cyear`) VALUES ('$name','$email','$number','$clguni','$Gyear','$Cyear')";
         $result = mysqli_query($conn, $sql);
         $showAlert = true;
     } else {
@@ -64,14 +64,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <!-- End Header -->
     <section id="services" class="forms" style="margin-top: px;">
         <div class="container" id="div2" mt-10>
-            
-            <h1><?php echo "Welcome $name"?></h1>
-            <h2>You have succesfully registerd for the Artificial Intelligence and Robotics Demo Session.</h2>
-            <h3 class="mt-3 mb-5">Join our WhatsApp group for future updates.</h3>
+
+            <h1><?php echo "Welcome $name" ?></h1>
+            <h2>You have succesfully registerd with DABOTICS INDIA Pvt. Ltd.</h2>
+            <h3 class="mt-3 mb-5">Feel free to contact us via whatsapp</h3>
         </div>
         <div class="container mt-5 text-center"><a class="btn1"
-                href="https://chat.whatsapp.com/HvkfbdK3UILCaLjO3noHum">Join
-                Group</a>
+                href="https://api.whatsapp.com/send/?phone=919368850126">Contact
+                Us</a>
         </div>
 
     </section>
