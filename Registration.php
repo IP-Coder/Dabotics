@@ -65,7 +65,8 @@
                     <input type="text" name="Cyear" required class="form-control" id="inputCity">
 
                 </div>
-                <div class="text-center "><button class="btn1" type=" submit">Send Message</button></div>
+                <div class="text-center "><button class="btn1" type=" submit">Register Here
+                    </button></div>
             </form>
         </div>
     </section>
