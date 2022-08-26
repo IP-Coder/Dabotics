@@ -32,7 +32,7 @@
                     <div class="box featured">
                         <h3>Python</h3>
                         <h4><sup>₹
-                            </sup>10000<span> </span></h4>
+                            </sup>25000<span> </span></h4>
                         <h4><span>Course Duration:45 days</span></h4>
 
                         <ul>
@@ -53,7 +53,7 @@
                     <div class="box featured">
                         <h3>AI With Python</h3>
                         <h4><sup>₹
-                            </sup>15000<span> </span></h4>
+                            </sup>25000<span> </span></h4>
                         <h4><span>Course Duration:60 days</span></h4>
 
                         <ul>
@@ -75,7 +75,7 @@
                     <div class="box featured">
                         <h3>Robotics</h3>
                         <h4><sup>₹
-                            </sup>10000<span> </span></h4>
+                            </sup>25000<span> </span></h4>
                         <h4><span>Course Duration:60 days</span></h4>
 
                         <ul>
@@ -104,7 +104,7 @@
                     <div class="box featured">
                         <h3>Java</h3>
                         <h4><sup>₹
-                            </sup>10000<span> </span></h4>
+                            </sup>25000<span> </span></h4>
                         <h4><span>Course Duration:45 days</span></h4>
 
                         <ul>
@@ -127,9 +127,9 @@
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
                     <div class="box featured">
-                        <h3>Full Stack Web Development</h3>
+                        <h3>ASP.Net</h3>
                         <h4><sup>₹
-                            </sup>15000<span> </span></h4>
+                            </sup>25000<span> </span></h4>
                         <h4><span>Course Duration:60 days</span></h4>
 
                         <ul>
@@ -154,7 +154,7 @@
                     <div class="box featured">
                         <h3>Cpp</h3>
                         <h4><sup>₹
-                            </sup>8000<span> </span></h4>
+                            </sup>25000<span> </span></h4>
                         <h4><span>Course Duration:90 days</span></h4>
 
                         <ul>
@@ -184,7 +184,7 @@
                     <div class="box featured">
                         <h3>DSA With Cpp</h3>
                         <h4><sup>₹
-                            </sup>10000<span> </span></h4>
+                            </sup>25000<span> </span></h4>
                         <h4><span>Course Duration:45 days</span></h4>
 
                         <ul>
@@ -209,7 +209,7 @@
                     <div class="box featured">
                         <h3>Frontend Web Development</h3>
                         <h4><sup>₹
-                            </sup>15000<span> </span></h4>
+                            </sup>25000<span> </span></h4>
                         <h4><span>Course Duration:60 days</span></h4>
 
                         <ul>
@@ -234,7 +234,7 @@
                     <div class="box featured">
                         <h3>Android Development</h3>
                         <h4><sup>₹
-                            </sup>8000<span> </span></h4>
+                            </sup>25000<span> </span></h4>
                         <h4><span>Course Duration:90 days</span></h4>
 
                         <ul>
@@ -264,7 +264,7 @@
                     <div class="box featured">
                         <h3>Digital Marketing</h3>
                         <h4><sup>₹
-                            </sup>12000<span> </span></h4>
+                            </sup>25000<span> </span></h4>
                         <h4><span>Course Duration:45 days</span></h4>
 
                         <ul>
@@ -289,7 +289,7 @@
                         <h3>Iot (Internet of things)
                         </h3>
                         <h4><sup>₹
-                            </sup>12000<span> </span></h4>
+                            </sup>25000<span> </span></h4>
                         <h4><span>Course Duration:60 days</span></h4>
 
                         <ul>
