@@ -1,39 +1,9 @@
-<?php
-$showAlert = false;
-$showError = false;
-if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    include 'Connection.php';
-    $name = $_POST["name"];
-    $email = $_POST["email"];
-    $number = $_POST["number"];
-    $clguni = $_POST["coluni"];
-    $Gyear = $_POST["Gyear"];
-    $Cyear = $_POST["Cyear"];
-    if (filter_var($email, FILTER_VALIDATE_EMAIL) && $name != "" && $email != "") {
-
-        // the message
-        $msg = "Name :- $name \nE-Mail :- $email \nMob. :- $number \nCollege / Uni. :- $clguni \n Graduation Year :- $Gyear \n Current Year :- $Cyear ";
-
-        // use wordwrap() if lines are longer than 70 characters;
-        $course = "Ai with python";
-        // send email   
-        mail("dabotics@gmail.com", "New Registration", $msg);
-        $sql = "INSERT INTO `Registration` (`Name`, `Email`, `Number`, `CllgUni`, `Gyear`, `Cyear`) VALUES ('$name','$email','$number','$clguni','$Gyear','$Cyear')";
-        $result = mysqli_query($conn, $sql);
-        $showAlert = true;
-    } else {
-        echo "There are any error in information provided by you ";
-    }
-    // INSERT INTO `contacts` (`S.No`, `Name`, `Email`, `Subject`, `Message`, `Time`) VALUES ('1', 'Pranjal Shrivastava', 'pranjalshrivastava7388@gmail.com', 'Checking ', 'This is only for checking the database', current_timestamp())
-}
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
 
-    <title>Services</title>
+    <title>Registration Form</title>
     <?php
     include 'Header.php'
     ?>
@@ -48,13 +18,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     transition: 0.4s;
     border-radius: 50px;
 }
-
-#div2 {
-    padding-top: 11%;
-    color: rgb(55, 81, 126);
-}
 </style>
-
 
 <body class="d-flex flex-column min-vh-100">
     <!-- ======= Header ======= -->
@@ -62,19 +26,50 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     include 'Navebar.php'
     ?>
     <!-- End Header -->
-    <section id="services" class="forms" style="margin-top: px;">
-        <div class="container" id="div2" mt-10>
+    <!-- ======= Form Section ======= -->
+    <section id="services" class="forms" style="margin-top: 60px;">
+        <div class="container">
+            <h1 class=" text-center ">Registration Form</h1>
 
-            <h1><?php echo "Welcome $name" ?></h1>
-            <h2>You have succesfully registerd with DABOTICS INDIA Pvt. Ltd.</h2>
-            <h3 class="mt-3 mb-5">Feel free to contact us via whatsapp</h3>
         </div>
-        <div class="container mt-5 text-center"><a class="btn1"
-                href="https://chat.whatsapp.com/HvkfbdK3UILCaLjO3noHum">Contact
-                Us</a>
-        </div>
+        <div class="container my-5">
+            <form class="row g-3" action="Success2.php" method="POST">
+                <div class="col-md-6">
+                    <label for="inputEmail4" class="form-label">Name <sup style="color: red;"> *</sup></label>
+                    <input type="text" name="name" required class="form-control" id="inputEmail4">
+                </div>
+                <div class="col-md-6">
+                    <label for="inputPassword4" class="form-label">Email Address <sup style="color: red;">
+                            *</sup></label>
+                    <input type="email" name="email" required class="form-control" id="inputPassword4">
+                </div>
+                <div class="col-6">
+                    <label for="inputAddress" class="form-label">Phone Number <sup style="color: red;"> *</sup></label>
+                    <input type="tel" name="number" pattern="[0-9]{10}" required class="form-control" id="inputAddress"
+                        placeholder="9874****21">
+                </div>
+                <div class="col-md-6">
+                    <label for="inputCity" class="form-label">College / University <sup style="color: red;">
+                            *</sup></label>
+                    <input type="text" name="coluni" required class="form-control" id="inputCity">
+                </div>
+                <div class="col-md-6">
+                    <label for="inputState" class="form-label">Graduation Year <sup style="color: red;">*</sup>
+                    </label>
+                    <input type="text" name="Gyear" required class="form-control" id="inputCity">
 
+                </div>
+                <div class="col-md-6">
+                    <label for="inputState" class="form-label">Current Year <sup style="color: red;">*</sup>
+                    </label>
+                    <input type="text" name="Cyear" required class="form-control" id="inputCity">
+
+                </div>
+                <div class="text-center "><button class="btn1" type=" submit">Send Message</button></div>
+            </form>
+        </div>
     </section>
+    <!-- ======= Footer ======= -->
     <?php
     include 'Footer.php'
     ?>
