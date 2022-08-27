@@ -111,7 +111,7 @@
                             <div class="pic"><img src="assets/img/team/team-1.webp" class="img-fluid" alt=""></div>
                             <div class="member-info">
                                 <h4>Sachin Shrivastava</h4>
-                                <span>Founder</span>
+                                <span>CEO</span>
                                 <p>Don't stop Chasing your Dreams ,Beacause Dream Do Come True</p>
                                 <div class="social">
                                     <a href=""><i class="ri-twitter-fill"></i></a>
