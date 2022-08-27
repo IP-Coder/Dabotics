@@ -1,9 +1,9 @@
     <header id="header" class="fixed-top " style="background-color: rgb(55, 81, 126);">
         <div class="container d-flex align-items-center">
 
-            <h1 class="logo me-auto"><a href="index.php">DaBotics</a></h1>
+<!--             <h1 class="logo me-auto"><a href="index.php">DaBotics</a></h1> -->
             <!-- Uncomment below if you prefer to use an image logo -->
-            <!-- <a href="index.php" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+            <a href="index.php" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>
 
             <nav id="navbar" class="navbar">
                 <ul>
