@@ -39,9 +39,7 @@
                         <a href="Registration.php" class="btn-get-started scrollto">Get Started</a>
                     </div>
                 </div>
-                <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
-                    <img src="assets/img/hero-img.png" class=" animated" alt="">
-                </div>
+                
             </div>
         </div>
 
