@@ -301,8 +301,8 @@
                             <div class="address">
                                 <i class="bi bi-geo-alt"></i>
                                 <h4>Location:</h4>
-                                <p>C-99 SECOND FLOOR SECTOR- 2 <br>
-                                    NOIDA UTTAR PRADESH<br>
+                                <p>DD-Puram <br>
+                                    Bareilly Uttar Pradesh<br>
                                     India <br> </p>
                             </div>
 
@@ -315,7 +315,7 @@
                             <div class="phone">
                                 <i class="bi bi-phone"></i>
                                 <h4>Call:</h4>
-                                <p>+91 8936938690, +91 9368850126</p>
+                                <p>0581-3585883, +91 9368850126</p>
                             </div>
                             <img src="assets/img/contact.png" alt="">
                         </div>
@@ -388,10 +388,10 @@
                     <div class="col-lg-3 col-md-6 footer-contact">
                         <h3>DaBotics</h3>
                         <p>
-                            C-99 SECOND FLOOR SECTOR- 2 <br>
-                            NOIDA UTTAR PRADESH<br>
+                            DD Puram <br>
+                            Bareilly Uttar Pradesh<br>
                             India <br>
-                            <strong>Phone:</strong> +91 8936938690, <br>+91 9368850126<br>
+                            <strong>Phone:</strong> 0581-3585883, <br>+91 9368850126<br>
                             <strong>Email:</strong> contact@dabotics.com<br>
                         </p>
                     </div>
