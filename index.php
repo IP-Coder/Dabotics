@@ -301,8 +301,8 @@
                             <div class="address">
                                 <i class="bi bi-geo-alt"></i>
                                 <h4>Location:</h4>
-                                <p>DD-Puram <br>
-                                    Bareilly Uttar Pradesh<br>
+                                <p>DD Puram <br>
+                                    Bareilly, Uttar Pradesh<br>
                                     India <br> </p>
                             </div>
 
@@ -389,7 +389,7 @@
                         <h3>DaBotics</h3>
                         <p>
                             DD Puram <br>
-                            Bareilly Uttar Pradesh<br>
+                            Bareilly, Uttar Pradesh<br>
                             India <br>
                             <strong>Phone:</strong> 0581-3585883, <br>+91 9368850126<br>
                             <strong>Email:</strong> contact@dabotics.com<br>
