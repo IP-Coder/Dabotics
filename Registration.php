@@ -49,15 +49,15 @@
                         placeholder="9874****21">
                 </div>
                 <div class="col-md-6">
-                    <label for="inputCity" class="form-label">College / University <sup style="color: red;">
-                            *</sup></label>
-                    <input type="text" name="coluni" required class="form-control" id="inputCity">
-                </div>
-                <div class="col-md-6">
-                    <label for="inputState" class="form-label">Graduation Year <sup style="color: red;">*</sup>
+                    <label for="inputState" class="form-label"> Course<sup style="color: red;">*</sup>
                     </label>
                     <input type="text" name="Gyear" required class="form-control" id="inputCity">
 
+                </div>
+                <div class="col-md-6">
+                    <label for="inputCity" class="form-label">Institute <sup style="color: red;">
+                            *</sup></label>
+                    <input type="text" name="coluni" required class="form-control" id="inputCity">
                 </div>
                 <div class="col-md-6">
                     <label for="inputState" class="form-label">Current Year <sup style="color: red;">*</sup>
