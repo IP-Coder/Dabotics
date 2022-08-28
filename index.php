@@ -12,6 +12,11 @@
     max-width: 8rem;
     height: fit-content;
 }
+          #hero {
+        background-image: url(assets/img/BG/main.jpg);
+        background-position: center;
+        background-size: cover;
+    }
     </style>
 </head>
 <body>
