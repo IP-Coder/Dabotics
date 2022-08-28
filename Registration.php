@@ -55,7 +55,7 @@
 
                 </div>
                 <div class="col-md-6">
-                    <label for="inputCity" class="form-label">Institute <sup style="color: red;">
+                    <label for="inputCity" class="form-label">Institute / University <sup style="color: red;">
                             *</sup></label>
                     <input type="text" name="coluni" required class="form-control" id="inputCity">
                 </div>
