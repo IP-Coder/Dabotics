@@ -32,8 +32,8 @@
                     <div class="box featured">
                         <h3>Python</h3>
                         <h4><sup>₹
-                            </sup>25000<span> </span></h4>
-                        <h4><span>Course Duration:6 Months</span></h4>
+                            </sup>10000<span> </span></h4>
+                        <h4><span>Course Duration:45 days</span></h4>
 
                         <ul>
                             <li><i class="bx bx-check"></i> Only 15 users will in batch .
@@ -53,8 +53,8 @@
                     <div class="box featured">
                         <h3>AI With Python</h3>
                         <h4><sup>₹
-                            </sup>25000<span> </span></h4>
-                        <h4><span>Course Duration:6 Months</span></h4>
+                            </sup>15000<span> </span></h4>
+                        <h4><span>Course Duration:60 days</span></h4>
 
                         <ul>
                             <li><i class="bx bx-check"></i> Only 10 user will in batch.
@@ -75,8 +75,8 @@
                     <div class="box featured">
                         <h3>Robotics</h3>
                         <h4><sup>₹
-                            </sup>25000<span> </span></h4>
-                        <h4><span>Course Duration:6 Months</span></h4>
+                            </sup>10000<span> </span></h4>
+                        <h4><span>Course Duration:60 days</span></h4>
 
                         <ul>
                             <li><i class="bx bx-check"></i>Only 10 user will in batch.
@@ -104,8 +104,8 @@
                     <div class="box featured">
                         <h3>Java</h3>
                         <h4><sup>₹
-                            </sup>25000<span> </span></h4>
-                        <h4><span>Course Duration:6 Months</span></h4>
+                            </sup>10000<span> </span></h4>
+                        <h4><span>Course Duration:45 days</span></h4>
 
                         <ul>
                             <li><i class="bx bx-check"></i> Only 10 user will in batch.
@@ -127,10 +127,10 @@
                 </div>
                 <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
                     <div class="box featured">
-                        <h3>ASP.Net</h3>
+                        <h3>Full Stack Web Development</h3>
                         <h4><sup>₹
-                            </sup>25000<span> </span></h4>
-                        <h4><span>Course Duration:6 Months</span></h4>
+                            </sup>15000<span> </span></h4>
+                        <h4><span>Course Duration:60 days</span></h4>
 
                         <ul>
                             <li><i class="bx bx-check"></i> Only 10 user will in batch.
@@ -154,8 +154,8 @@
                     <div class="box featured">
                         <h3>Cpp</h3>
                         <h4><sup>₹
-                            </sup>25000<span> </span></h4>
-                        <h4><span>Course Duration:6 Months</span></h4>
+                            </sup>8000<span> </span></h4>
+                        <h4><span>Course Duration:90 days</span></h4>
 
                         <ul>
                             <li><i class="bx bx-check"></i> Only 15 user will in batch.
@@ -184,8 +184,8 @@
                     <div class="box featured">
                         <h3>DSA With Cpp</h3>
                         <h4><sup>₹
-                            </sup>25000<span> </span></h4>
-                        <h4><span>Course Duration:6 Months</span></h4>
+                            </sup>10000<span> </span></h4>
+                        <h4><span>Course Duration:45 days</span></h4>
 
                         <ul>
                             <li><i class="bx bx-check"></i> Only 10 user will in batch.
@@ -209,8 +209,8 @@
                     <div class="box featured">
                         <h3>Frontend Web Development</h3>
                         <h4><sup>₹
-                            </sup>25000<span> </span></h4>
-                        <h4><span>Course Duration:6 Months</span></h4>
+                            </sup>15000<span> </span></h4>
+                        <h4><span>Course Duration:60 days</span></h4>
 
                         <ul>
                             <li><i class="bx bx-check"></i> Only 10 user will in batch.
@@ -234,8 +234,8 @@
                     <div class="box featured">
                         <h3>Android Development</h3>
                         <h4><sup>₹
-                            </sup>25000<span> </span></h4>
-                        <h4><span>Course Duration:6 Months</span></h4>
+                            </sup>8000<span> </span></h4>
+                        <h4><span>Course Duration:90 days</span></h4>
 
                         <ul>
                             <li><i class="bx bx-check"></i> Only 15 user will in batch.
@@ -264,8 +264,8 @@
                     <div class="box featured">
                         <h3>Digital Marketing</h3>
                         <h4><sup>₹
-                            </sup>25000<span> </span></h4>
-                        <h4><span>Course Duration:6 Months</span></h4>
+                            </sup>12000<span> </span></h4>
+                        <h4><span>Course Duration:45 days</span></h4>
 
                         <ul>
                             <li><i class="bx bx-check"></i> Only 10 user will in batch.
@@ -289,8 +289,8 @@
                         <h3>Iot (Internet of things)
                         </h3>
                         <h4><sup>₹
-                            </sup>25000<span> </span></h4>
-                        <h4><span>Course Duration:6 Months</span></h4>
+                            </sup>12000<span> </span></h4>
+                        <h4><span>Course Duration:60 days</span></h4>
 
                         <ul>
                             <li><i class="bx bx-check"></i> Only 10 user will in batch.
@@ -314,7 +314,7 @@
                         <h3>Cyber Security</h3>
                         <h4><sup>₹
                             </sup>25000<span> </span></h4>
-                        <h4><span>Course Duration:6 Months</span></h4>
+                        <h4><span>Course Duration:90 days</span></h4>
 
                         <ul>
                             <li><i class="bx bx-check"></i> Only 5 user will in batch.
