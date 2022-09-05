@@ -67,7 +67,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-6 mt-4 mt-lg-0">
+<!--                     <div class="col-lg-6 mt-4 mt-lg-0">
                         <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="200">
                             <div class="pic"><img src="assets/img/team/team-2.png" class="img-fluid" alt=""></div>
                             <div class="member-info">
@@ -81,12 +81,12 @@
                                     <a href="https://www.linkedin.com/in/devilcoder/" target="_blank"> <i class="ri-linkedin-box-fill"></i> </a>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="row mt-5">
 
-                    <div class="col-lg-6">
+<!--                     <div class="col-lg-6">
                         <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
                             <div class="pic"><img src="assets/img/team/team-3.png" class="img-fluid" alt=""></div>
                             <div class="member-info">
@@ -101,7 +101,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="col-lg-6">
                         <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
                             <div class="pic"><img src="assets/img/team/team-4.png" class="img-fluid" alt=""></div>
