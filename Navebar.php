@@ -11,7 +11,7 @@
                     <li><a class="nav-link scrollto target" href="About.php">About</a></li>
                     <li><a class="nav-link scrollto target" href="Service.php">Services</a></li>
                     <li><a class="nav-link scrollto target" href="Courses.php">Courses</a></li>
-                    <li><a class="nav-link scrollto target" href="Team.php">Team</a></li>
+<!--                     <li><a class="nav-link scrollto target" href="Team.php">Team</a></li> -->
                     <li><a class="nav-link scrollto target" href="Contactus.php">Contact</a></li>
                     <li><a class="nav-link scrollto target" href="Registration.php">Register</a></li>
                                         
