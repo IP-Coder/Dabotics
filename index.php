@@ -132,7 +132,7 @@
                                 <h4>Er. Prakhar Sarswat</h4>
                                 <!-- <h6>From Samsung Electronics</h6> -->
                                 <span>CTO</span>
-                                <p>Addition of small steps let you closer to yous goal</p>
+                                <p>Addition of small steps let you closer to yous<br> goal</p>
                                 <div class="social">
                                     <a href=""><i class="ri-twitter-fill"></i></a>
                                     <a href=""><i class="ri-facebook-fill"></i></a>
