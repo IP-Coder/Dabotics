@@ -249,7 +249,7 @@
                             <div id="faq-list-4" class="collapse" data-bs-parent=".faq-list">
                                 <p>
                                     <b> 1.) MOTIVATES & INSPIRES</b><br>
-                                    WISLAB is a unique platform which motivates, inspires & engages students to
+                                    DALAB is a unique platform which motivates, inspires & engages students to
                                     experience a natural, practical, hands on & experiential learning. Students will
                                     learn Science, Technology, Engineering & Mathematics concepts in a fun loving &
                                     exciting way.
