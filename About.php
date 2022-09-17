@@ -75,7 +75,7 @@
     </section><!-- End About Us Section -->
 
     <!-- ======= Footer ======= -->
-    <div class="footer-newsletter">
+    <div style = "background-color:rgb(243,245,250); class="footer-newsletter">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="section-title">
