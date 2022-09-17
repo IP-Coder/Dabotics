@@ -78,9 +78,9 @@
     <div class="footer-newsletter">
         <div class="container">
             <div class="row justify-content-center">
-                <div class="col-lg-6">
-                    <h4>Our Partners</h4>
-                </div>
+                <div class="section-title">
+                <h2>About Us</h2>
+            </div>
                 <div class="row justify-content-center" data-aos="zoom-in">
 
                     <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
