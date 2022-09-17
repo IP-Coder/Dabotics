@@ -75,28 +75,30 @@
     </section><!-- End About Us Section -->
 
     <!-- ======= Footer ======= -->
-    <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-lg-6">
-                        <h4>Our Partners</h4>
+    <div class="footer-newsletter">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-6">
+                    <h4>Our Partners</h4>
+                </div>
+                <div class="row justify-content-center" data-aos="zoom-in">
+
+                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                        <img src="assets/img/clients/Partners-1.png" class="img-fluid" alt="">
                     </div>
-                    <div class="row justify-content-center" data-aos="zoom-in">
 
-                        <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                            <img src="assets/img/clients/Partners-1.png" class="img-fluid" alt="">
-                        </div>
-
-                        <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                            <img src="assets/img/clients/Partners-2.png" class="img-fluid" alt="">
-                        </div>
-
-                        <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                            <img src="assets/img/clients/Partners-3.png" class="img-fluid" alt="">
-                        </div>
-
+                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                        <img src="assets/img/clients/Partners-2.png" class="img-fluid" alt="">
                     </div>
+
+                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                        <img src="assets/img/clients/Partners-3.png" class="img-fluid" alt="">
+                    </div>
+
                 </div>
             </div>
+        </div>
+    </div>
     <?php
     include 'Footer.php'
     ?>
