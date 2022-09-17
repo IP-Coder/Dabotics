@@ -79,7 +79,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="section-title">
-                <h2>About Us</h2>
+                <h2>Our Partners</h2>
             </div>
                 <div class="row justify-content-center" data-aos="zoom-in">
 
