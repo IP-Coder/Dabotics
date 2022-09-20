@@ -452,8 +452,8 @@
                     <div class="col-lg-3 col-md-6 footer-contact">
                         <h3>DaBotics</h3>
                         <p>
-                            DD Puram <br>
-                            Bareilly, Uttar Pradesh<br>
+                            C-99, Sector-2<br>
+                            Noida, Uttar Pradesh<br>
                             India <br>
                             <strong>Phone:</strong> 0581-3585883, <br>+91 9368850126<br>
                             <strong>Email:</strong> contact@dabotics.com<br>
