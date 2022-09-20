@@ -359,8 +359,8 @@
                                 <div class="address">
                                     <i class="bi bi-geo-alt"></i>
                                     <h4>Location:</h4>
-                                    <p>DD Puram <br>
-                                        Bareilly, Uttar Pradesh<br>
+                                    <p>C-99, Sector-2 <br>
+                                        Noida, Uttar Pradesh<br>
                                         India <br> </p>
                                 </div>
 
@@ -473,7 +473,7 @@
                         <h4>Our Services</h4>
                         <ul>
                             <li><i class="bx bx-chevron-right"></i> <a href="Workshop.php">Workshop</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="ProjectAssistance.php">Project Assistent</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="ProjectAssistance.php">Project Assistance</a></li>
                             <li><i class="bx bx-chevron-right"></i> <a href="LabSetup.php">Lab Setup</a></li>
                         </ul>
                     </div>
