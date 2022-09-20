@@ -9,16 +9,18 @@
     ?>
     <style>
         .img-fluid {
-    max-width: 8rem;
-    height: fit-content;
-}
-          #hero {
-        background-image: url(assets/img/BG/main.jpg);
-        background-position: center;
-        background-size: cover;
-    }
+            max-width: 8rem;
+            height: fit-content;
+        }
+
+        #hero {
+            background-image: url(assets/img/BG/main.jpg);
+            background-position: center;
+            background-size: cover;
+        }
     </style>
 </head>
+
 <body>
     <!-- ======= Header ======= -->
     <?php
@@ -39,7 +41,7 @@
                         <a href="Registration.php" class="btn-get-started scrollto">Get Started</a>
                     </div>
                 </div>
-                
+
             </div>
         </div>
 
@@ -98,10 +100,8 @@
         </section><!-- End Services Sectin -->
 
         <!-- ======= Team Section ======= -->
-        le="text-align: center; margin-top:4%">
-                    <a href="Team.php" class="buy-btn">Meet All Others</a>
 
-                </div><section id="team" class="team section-bg">
+        <!-- <section id="team" class="team section-bg">
             <div class="container" data-aos="fade-up">
 
                 <div class="section-title">
@@ -124,32 +124,34 @@
                                     <a href=""><i class="ri-facebook-fill"></i></a>
                                     <a href=""><i class="ri-instagram-fill"></i></a>
 
-<!--                 </div>                                    <a href=""> <i class="ri-linkedin-box-fill" target="_blank"></i> </a>
-                                </div>
+                                </div> <a href=""> <i class="ri-linkedin-box-fill" target="_blank"></i> </a>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6">
-                        <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
-                            <div class="pic"><img src="assets/img/team/team-4.png" class="img-fluid" alt=""></div>
-                            <div class="member-info">
-                                <h4>Er. Prakhar Sarswat</h4>
-                                <!-- <h6>From Samsung Electronics</h6> -->
-                                <span>CTO</span>
-                                <p>Addition of small steps let you closer to yous<br> goal</p>
-                                <div class="social">
-                                    <a href=""><i class="ri-twitter-fill"></i></a>
-                                    <a href=""><i class="ri-facebook-fill"></i></a>
-                                    <a href=""><i class="ri-instagram-fill"></i></a>
-                                    <a href="https://www.linkedin.com/in/prakharsarswat/" target="_blank"> <i class="ri-linkedin-box-fill"></i> </a>
-                                </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
+                        <div class="pic"><img src="assets/img/team/team-4.png" class="img-fluid" alt=""></div>
+                        <div class="member-info">
+                            <h4>Er. Prakhar Sarswat</h4>
+                            <h6>From Samsung Electronics</h6>
+                            <span>CTO</span>
+                            <p>Addition of small steps let you closer to yous<br> goal</p>
+                            <div class="social">
+                                <a href=""><i class="ri-twitter-fill"></i></a>
+                                <a href=""><i class="ri-facebook-fill"></i></a>
+                                <a href=""><i class="ri-instagram-fill"></i></a>
+                                <a href="https://www.linkedin.com/in/prakharsarswat/" target="_blank"> <i
+                                        class="ri-linkedin-box-fill"></i> </a>
                             </div>
                         </div>
-                   
+                    </div>
 
-<!--                     <div class="col-lg-6 mt-4 mt-lg-0">
+
+                    <div class="col-lg-6 mt-4 mt-lg-0">
                         <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="200">
-                            <div class="pic"><img src="assets/img/team/team-2.webp" class="img-fluid" alt=""></div>
+                            <div class="pic"><img src="assets/img/team/team-2.webp" class="img-fluid" alt="">
+                            </div>
                             <div class="member-info">
                                 <h4>Pranjal Shrivastava</h4>
                                 <span>Co-Founder</span>
@@ -157,217 +159,255 @@
                                 <div class="social">
                                     <a href=""><i class="ri-twitter-fill"></i></a>
                                     <a href=""><i class="ri-facebook-fill"></i></a>
-                                    <a href="https://www.instagram.com/pranjal.9.0.4.4/" target="_blank"><i class="ri-instagram-fill"></i></a>
-                                    <a href="https://www.linkedin.com/in/devilcoder/" target="_blank"> <i class="ri-linkedin-box-fill"></i> </a>
+                                    <a href="https://www.instagram.com/pranjal.9.0.4.4/" target="_blank"><i
+                                            class="ri-instagram-fill"></i></a>
+                                    <a href="https://www.linkedin.com/in/devilcoder/" target="_blank"> <i
+                                            class="ri-linkedin-box-fill"></i> </a>
                                 </div>
                             </div>
                         </div>
-                    </div> -->
-                     
+                    </div>
+
                 </div>
-            </div>
-                <div class ="pricing" sty
-        </section><!-- End Team Section --> -->
-        <!-- ======= Frequently Asked Questions Section ======= -->
-        <section id="faq" class="faq section-bg">
-            <div class="container" data-aos="fade-up">
+            </div> -->
+        <!-- End Team Section -->
+        <div class="pricing" sty </section>
+            <!-- ======= Frequently Asked Questions Section ======= -->
+            <section id="faq" class="faq section-bg">
+                <div class="container" data-aos="fade-up">
 
-                <div class="section-title">
-                    <h2>Frequently Asked Questions</h2>
+                    <div class="section-title">
+                        <h2>Frequently Asked Questions</h2>
+                    </div>
+
+                    <div class="faq-list">
+                        <ul>
+                            <li data-aos="fade-up" data-aos-delay="100">
+                                <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
+                                    class="collapse" data-bs-target="#faq-list-1">What is STEAM ? <i
+                                        class="bx bx-chevron-down icon-show"></i><i
+                                        class="bx bx-chevron-up icon-close"></i></a>
+                                <div id="faq-list-1" class="collapse show" data-bs-parent=".faq-list">
+                                    <p>
+                                        STEAM is a curriculum based on the idea of educating students in
+                                        FIVE specific
+                                        disciplines — Science, Technology, Engineering, Arts and Mathematics
+                                        — in an
+                                        interdisciplinary and applied approach. Rather than teach the four
+                                        disciplines as
+                                        separate and discrete subjects, STEAM integrates them into a
+                                        cohesive learning
+                                        paradigm based on real-world applications.
+                                        What separates STEAM from the traditional science and math education
+                                        is the blended
+                                        learning environment and showing students how the scientific method
+                                        can be applied
+                                        to everyday life. It teaches students computational thinking and
+                                        focuses on the real
+                                        world applications of problem solving
+
+                                    </p>
+                                </div>
+                            </li>
+
+                            <li data-aos="fade-up" data-aos-delay="200">
+                                <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
+                                    data-bs-target="#faq-list-2" class="collapsed">Why is STEAM important at
+                                    school level ?
+                                    <i class="bx bx-chevron-down icon-show"></i><i
+                                        class="bx bx-chevron-up icon-close"></i></a>
+                                <div id="faq-list-2" class="collapse" data-bs-parent=".faq-list">
+                                    <p>
+                                        <b> Elementary school</b> — STEAM education focuses on the
+                                        introductory level STEAM
+                                        courses,
+                                        as well as awareness of the STEAM fields. This initial step provides
+                                        standards-based
+                                        structured inquiry-based and real world problem-based learning,
+                                        connecting all four
+                                        of the STEAM subjects.
+                                        <br>
+                                        <br>
+                                        <b> Middle school</b> — Student awareness of STEAM fields is still
+                                        pursued, as well
+                                        as the academic requirements of such fields. Student exploration of
+                                        STEAM related
+                                        careers begins at this level, particularly for underrepresented
+                                        populations.
+                                        <br>
+                                        <br>
+                                        <b>High school</b> — The program of study focuses on the application
+                                        of the subjects
+                                        in a challenging and rigorous manner. Courses and pathways are now
+                                        available in
+                                        STEAM fields and occupations, as well as preparation for
+                                        post-secondary education.
+
+                                    </p>
+                                </div>
+                            </li>
+
+                            <li data-aos="fade-up" data-aos-delay="300">
+                                <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
+                                    data-bs-target="#faq-list-3" class="collapsed">Why does DABOTICS Stand
+                                    for ? <i class="bx bx-chevron-down icon-show"></i><i
+                                        class="bx bx-chevron-up icon-close"></i></a>
+                                <div id="faq-list-3" class="collapse" data-bs-parent=".faq-list">
+                                    <p>
+                                        DABOTICS INDIA , as the name suggests, Source of Knowledge exists to
+                                        promote
+                                        Robotics & STEAM experiences for kids. DABOTICS LAB , the Robotics
+                                        Lab , will
+                                        execute, support, train & develop teams, events, and educators
+                                        helping more K-12
+                                        students engage in hands on STEAM and IT experiences and will
+                                        provide training in
+                                        21st Century skills.
+                                    </p>
+                                </div>
+                            </li>
+
+                            <li data-aos="fade-up" data-aos-delay="400">
+                                <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
+                                    data-bs-target="#faq-list-4" class="collapsed">Why Should we join
+                                    DABOTICS Club ?<i class="bx bx-chevron-down icon-show"></i><i
+                                        class="bx bx-chevron-up icon-close"></i></a>
+                                <div id="faq-list-4" class="collapse" data-bs-parent=".faq-list">
+                                    <p>
+                                        <b> 1.) MOTIVATES & INSPIRES</b><br>
+                                        DALAB is a unique platform which motivates, inspires & engages
+                                        students to
+                                        experience a natural, practical, hands on & experiential learning.
+                                        Students will
+                                        learn Science, Technology, Engineering & Mathematics concepts in a
+                                        fun loving &
+                                        exciting way.
+                                        <br>
+                                        <br>
+                                        <b>2.) AMAZING SUPPORT</b><br>
+                                        Students will be supported by vast presentations with step by step
+                                        demonstration of
+                                        various projects students can execute. Students can interact with
+                                        lot of robo
+                                        enthusiasts & share their work & excitement.
+                                        <br>
+                                        <br>
+                                        <b>3.) HIGHLY MODULAR</b><br>
+                                        The kits are highly modular with different types of blocks. Students
+                                        can create any
+                                        kind of structure ranging from an astronaut to a spacestation, or a
+                                        car to a
+                                        wheelbot using solar cells and learn the technical aspects behind
+                                        its working.
+                                        <br>
+                                        <br>
+                                        <b>4.) ORGANISED LEARNING</b><br>
+                                        The process of learning will inherently teach students the ability
+                                        to think,
+                                        brainstorm & plan their own work when working alone or in teams. The
+                                        assessment
+                                        systems will help students to identify their strengths & weakness.
+                                        <br>
+                                        <br>
+                                        <b>5.) EASY TO UNDERSTAND</b><br>
+                                        Build your robot with an easy to use environment which can be used
+                                        by as young as 4
+                                        year olds.
+
+                                    </p>
+                                </div>
+                            </li>
+
+                            <li data-aos="fade-up" data-aos-delay="500">
+                                <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
+                                    data-bs-target="#faq-list-5" class="collapsed">Do You Provide Franchisee
+                                    opportunities ?
+                                    <i class="bx bx-chevron-down icon-show"></i><i
+                                        class="bx bx-chevron-up icon-close"></i></a>
+                                <div id="faq-list-5" class="collapse" data-bs-parent=".faq-list">
+                                    <p>
+                                        Yes, Our AIM is to serve maximum number of students across the
+                                        country. We have
+                                        attractive franchisee options available with us. For more details
+                                        kindly write to us
+                                        at contact@dabotics.com
+                                    </p>
+                                </div>
+                            </li>
+
+                        </ul>
+                    </div>
+
                 </div>
+            </section><!-- End Frequently Asked Questions Section -->
 
-                <div class="faq-list">
-                    <ul>
-                        <li data-aos="fade-up" data-aos-delay="100">
-                            <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse"
-                                data-bs-target="#faq-list-1">What is STEAM ? <i
-                                    class="bx bx-chevron-down icon-show"></i><i
-                                    class="bx bx-chevron-up icon-close"></i></a>
-                            <div id="faq-list-1" class="collapse show" data-bs-parent=".faq-list">
-                                <p>
-                                    STEAM is a curriculum based on the idea of educating students in FIVE specific
-                                    disciplines — Science, Technology, Engineering, Arts and Mathematics — in an
-                                    interdisciplinary and applied approach. Rather than teach the four disciplines as
-                                    separate and discrete subjects, STEAM integrates them into a cohesive learning
-                                    paradigm based on real-world applications.
-                                    What separates STEAM from the traditional science and math education is the blended
-                                    learning environment and showing students how the scientific method can be applied
-                                    to everyday life. It teaches students computational thinking and focuses on the real
-                                    world applications of problem solving
+            <!-- ======= Contact Section ======= -->
+            <section id="contact" class="contact">
+                <div class="container" data-aos="fade-up">
 
-                                </p>
+                    <div class="section-title">
+                        <h2>Contact</h2>
+                        <p>Need an expert ? You are more than welcomed to leave your contact info and we
+                            will be in touch
+                            shortly.</p>
+                    </div>
+
+                    <div class="row">
+
+                        <div class="col-lg-5 d-flex align-items-stretch">
+                            <div class="info">
+                                <div class="address">
+                                    <i class="bi bi-geo-alt"></i>
+                                    <h4>Location:</h4>
+                                    <p>DD Puram <br>
+                                        Bareilly, Uttar Pradesh<br>
+                                        India <br> </p>
+                                </div>
+
+                                <div class="email">
+                                    <i class="bi bi-envelope"></i>
+                                    <h4>Email:</h4>
+                                    <p>contact@dabotics.com</p>
+                                </div>
+
+                                <div class="phone">
+                                    <i class="bi bi-phone"></i>
+                                    <h4>Call:</h4>
+                                    <p>0581-3585883, +91 9368850126</p>
+                                </div>
+                                <img src="assets/img/contact.png" alt="">
                             </div>
-                        </li>
-
-                        <li data-aos="fade-up" data-aos-delay="200">
-                            <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
-                                data-bs-target="#faq-list-2" class="collapsed">Why is STEAM important at school level ?
-                                <i class="bx bx-chevron-down icon-show"></i><i
-                                    class="bx bx-chevron-up icon-close"></i></a>
-                            <div id="faq-list-2" class="collapse" data-bs-parent=".faq-list">
-                                <p>
-                                    <b> Elementary school</b> — STEAM education focuses on the introductory level STEAM
-                                    courses,
-                                    as well as awareness of the STEAM fields. This initial step provides standards-based
-                                    structured inquiry-based and real world problem-based learning, connecting all four
-                                    of the STEAM subjects.
-                                    <br>
-                                    <br>
-                                    <b> Middle school</b> — Student awareness of STEAM fields is still pursued, as well
-                                    as the academic requirements of such fields. Student exploration of STEAM related
-                                    careers begins at this level, particularly for underrepresented populations.
-                                    <br>
-                                    <br>
-                                    <b>High school</b> — The program of study focuses on the application of the subjects
-                                    in a challenging and rigorous manner. Courses and pathways are now available in
-                                    STEAM fields and occupations, as well as preparation for post-secondary education.
-
-                                </p>
-                            </div>
-                        </li>
-
-                        <li data-aos="fade-up" data-aos-delay="300">
-                            <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
-                                data-bs-target="#faq-list-3" class="collapsed">Why does DABOTICS Stand for ? <i
-                                    class="bx bx-chevron-down icon-show"></i><i
-                                    class="bx bx-chevron-up icon-close"></i></a>
-                            <div id="faq-list-3" class="collapse" data-bs-parent=".faq-list">
-                                <p>
-                                    DABOTICS INDIA , as the name suggests, Source of Knowledge exists to promote
-                                    Robotics & STEAM experiences for kids. DABOTICS LAB , the Robotics Lab , will
-                                    execute, support, train & develop teams, events, and educators helping more K-12
-                                    students engage in hands on STEAM and IT experiences and will provide training in
-                                    21st Century skills.
-                                </p>
-                            </div>
-                        </li>
-
-                        <li data-aos="fade-up" data-aos-delay="400">
-                            <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
-                                data-bs-target="#faq-list-4" class="collapsed">Why Should we join DABOTICS Club ?<i
-                                    class="bx bx-chevron-down icon-show"></i><i
-                                    class="bx bx-chevron-up icon-close"></i></a>
-                            <div id="faq-list-4" class="collapse" data-bs-parent=".faq-list">
-                                <p>
-                                    <b> 1.) MOTIVATES & INSPIRES</b><br>
-                                    DALAB is a unique platform which motivates, inspires & engages students to
-                                    experience a natural, practical, hands on & experiential learning. Students will
-                                    learn Science, Technology, Engineering & Mathematics concepts in a fun loving &
-                                    exciting way.
-                                    <br>
-                                    <br>
-                                    <b>2.) AMAZING SUPPORT</b><br>
-                                    Students will be supported by vast presentations with step by step demonstration of
-                                    various projects students can execute. Students can interact with lot of robo
-                                    enthusiasts & share their work & excitement.
-                                    <br>
-                                    <br>
-                                    <b>3.) HIGHLY MODULAR</b><br>
-                                    The kits are highly modular with different types of blocks. Students can create any
-                                    kind of structure ranging from an astronaut to a spacestation, or a car to a
-                                    wheelbot using solar cells and learn the technical aspects behind its working.
-                                    <br>
-                                    <br>
-                                    <b>4.) ORGANISED LEARNING</b><br>
-                                    The process of learning will inherently teach students the ability to think,
-                                    brainstorm & plan their own work when working alone or in teams. The assessment
-                                    systems will help students to identify their strengths & weakness.
-                                    <br>
-                                    <br>
-                                    <b>5.) EASY TO UNDERSTAND</b><br>
-                                    Build your robot with an easy to use environment which can be used by as young as 4
-                                    year olds.
-
-                                </p>
-                            </div>
-                        </li>
-
-                        <li data-aos="fade-up" data-aos-delay="500">
-                            <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
-                                data-bs-target="#faq-list-5" class="collapsed">Do You Provide Franchisee opportunities ?
-                                <i class="bx bx-chevron-down icon-show"></i><i
-                                    class="bx bx-chevron-up icon-close"></i></a>
-                            <div id="faq-list-5" class="collapse" data-bs-parent=".faq-list">
-                                <p>
-                                    Yes, Our AIM is to serve maximum number of students across the country. We have
-                                    attractive franchisee options available with us. For more details kindly write to us
-                                    at contact@dabotics.com
-                                </p>
-                            </div>
-                        </li>
-
-                    </ul>
-                </div>
-
-            </div>
-        </section><!-- End Frequently Asked Questions Section -->
-
-        <!-- ======= Contact Section ======= -->
-        <section id="contact" class="contact">
-            <div class="container" data-aos="fade-up">
-
-                <div class="section-title">
-                    <h2>Contact</h2>
-                    <p>Need an expert ? You are more than welcomed to leave your contact info and we will be in touch
-                        shortly.</p>
-                </div>
-
-                <div class="row">
-
-                    <div class="col-lg-5 d-flex align-items-stretch">
-                        <div class="info">
-                            <div class="address">
-                                <i class="bi bi-geo-alt"></i>
-                                <h4>Location:</h4>
-                                <p>DD Puram <br>
-                                    Bareilly, Uttar Pradesh<br>
-                                    India <br> </p>
-                            </div>
-
-                            <div class="email">
-                                <i class="bi bi-envelope"></i>
-                                <h4>Email:</h4>
-                                <p>contact@dabotics.com</p>
-                            </div>
-
-                            <div class="phone">
-                                <i class="bi bi-phone"></i>
-                                <h4>Call:</h4>
-                                <p>0581-3585883, +91 9368850126</p>
-                            </div>
-                            <img src="assets/img/contact.png" alt="">
                         </div>
-                    </div>
 
-                    <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-                        <form action="COnus.php" method="post" role="form" class="php-email-form">
-                            <div class="row">
-                                <div class="form-group col-md-6">
-                                    <label for="name">Your Name</label>
-                                    <input type="text" name="name" class="form-control" id="name" required>
+                        <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
+                            <form action="COnus.php" method="post" role="form" class="php-email-form">
+                                <div class="row">
+                                    <div class="form-group col-md-6">
+                                        <label for="name">Your Name</label>
+                                        <input type="text" name="name" class="form-control" id="name" required>
+                                    </div>
+                                    <div class="form-group col-md-6">
+                                        <label for="name">Your Email</label>
+                                        <input type="email" class="form-control" name="email" id="email" required>
+                                    </div>
                                 </div>
-                                <div class="form-group col-md-6">
-                                    <label for="name">Your Email</label>
-                                    <input type="email" class="form-control" name="email" id="email" required>
+                                <div class="form-group">
+                                    <label for="name">Subject</label>
+                                    <input type="text" class="form-control" name="subject" id="subject" required>
                                 </div>
-                            </div>
-                            <div class="form-group">
-                                <label for="name">Subject</label>
-                                <input type="text" class="form-control" name="subject" id="subject" required>
-                            </div>
-                            <div class="form-group">
-                                <label for="name">Message</label>
-                                <textarea class="form-control" name="message" rows="10" required></textarea>
-                            </div>
-                            <div class="text-center"><button type="submit">Send Message</button></div>
-                        </form>
+                                <div class="form-group">
+                                    <label for="name">Message</label>
+                                    <textarea class="form-control" name="message" rows="10" required></textarea>
+                                </div>
+                                <div class="text-center"><button type="submit">Send Message</button></div>
+                            </form>
+                        </div>
+
                     </div>
 
                 </div>
-
-            </div>
-        </section>
-        <!-- End Contact Section -->
+            </section>
+            <!-- End Contact Section -->
 
     </main><!-- End #main -->
 
@@ -485,17 +525,17 @@
     <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous">
-    </script>
+        </script>
 
     <!-- Template Main JS File -->
     <script src="assets/js/main.js"></script>
     <!-- CArousel JS -->
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
         integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
-    </script>
+        </script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous">
-    </script>
+        </script>
 
 
 </body>
