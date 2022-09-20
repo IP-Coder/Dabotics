@@ -36,7 +36,7 @@
                 <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1"
                     data-aos="fade-up" data-aos-delay="200">
                     <h1>THE FUTURE OF MOBILITY IS HERE</h1>
-                    <h2>Discover the Safest self-driving experience with Dabotics India Pvt. Ltd.</h2>
+                    <h2>Discover the Safest self-driving experience with Dabotics</h2>
                     <div class="d-flex justify-content-center justify-content-lg-start">
                         <a href="Registration.php" class="btn-get-started scrollto">Get Started</a>
                     </div>
