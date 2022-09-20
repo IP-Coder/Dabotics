@@ -98,7 +98,10 @@
         </section><!-- End Services Sectin -->
 
         <!-- ======= Team Section ======= -->
-        <section id="team" class="team section-bg">
+        le="text-align: center; margin-top:4%">
+                    <a href="Team.php" class="buy-btn">Meet All Others</a>
+
+                </div><section id="team" class="team section-bg">
             <div class="container" data-aos="fade-up">
 
                 <div class="section-title">
@@ -120,7 +123,8 @@
                                     <a href=""><i class="ri-twitter-fill"></i></a>
                                     <a href=""><i class="ri-facebook-fill"></i></a>
                                     <a href=""><i class="ri-instagram-fill"></i></a>
-                                    <a href=""> <i class="ri-linkedin-box-fill" target="_blank"></i> </a>
+
+<!--                 </div>                                    <a href=""> <i class="ri-linkedin-box-fill" target="_blank"></i> </a>
                                 </div>
                             </div>
                         </div>
@@ -162,11 +166,8 @@
                      
                 </div>
             </div>
-                <div class ="pricing" style="text-align: center; margin-top:4%">
-                    <a href="Team.php" class="buy-btn">Meet All Others</a>
-
-                </div>
-        </section><!-- End Team Section -->
+                <div class ="pricing" sty
+        </section><!-- End Team Section --> -->
         <!-- ======= Frequently Asked Questions Section ======= -->
         <section id="faq" class="faq section-bg">
             <div class="container" data-aos="fade-up">
