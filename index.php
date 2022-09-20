@@ -472,11 +472,9 @@
                     <div class="col-lg-3 col-md-6 footer-links">
                         <h4>Our Services</h4>
                         <ul>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Project Development</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">AI/ML Projects</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Logo Design</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="Workshop.php">Workshop</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="ProjectAssistance.php">Project Assistent</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="LabSetup.php">Lab Setup</a></li>
                         </ul>
                     </div>
 
@@ -484,15 +482,14 @@
                         <h4>Our Social Networks</h4>
                         <p>Feel Free To Contact Us By Social Networks</p>
                         <div class="social-links mt-3">
-                            <a href="https://twitter.com/Pranjal05327999" class="twitter" target="0"><i
-                                    class="bx bxl-twitter"></i></a>
-                            <a href="https://www.facebook.com/profile.php?id=100004455497438" class="facebook"
+             
+                            <a href="https://www.facebook.com/dabotics" class="facebook"
                                 target="0"><i class="bx bxl-facebook"></i></a>
-                            <a href="https://www.instagram.com/goddevil_eye/?hl=en" class="instagram" target="0"><i
+                            <a href="https://www.instagram.com/dabotics/" class="instagram" target="0"><i
                                     class="bx bxl-instagram"></i></a>
-                            <a href="https://wa.me/917388476701" class="google-plus" target="0"><i
+                            <a href="https://wa.me/919368850126" class="google-plus" target="0"><i
                                     class="bx bxl-whatsapp"></i></a>
-                            <a href="https://www.linkedin.com/in/DaBotics/" class="linkedin" target="0"><i
+                            <a href="https://www.linkedin.com/company/dabotics-india-pvt-ltd/" class="linkedin" target="0"><i
                                     class="bx bxl-linkedin"></i></a>
                         </div>
                     </div>
