@@ -70,7 +70,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <h3 class="mt-3 mb-5">Join our WhatsApp group for future updates.</h3>
         </div>
         <div class="container mt-5 text-center"><a class="btn1"
-                href="https://chat.whatsapp.com/FEsQPOGar1y1DZBglz3EYe">Join
+                href="https://chat.whatsapp.com">Join
                 Group</a>
         </div>
 
