@@ -48,7 +48,7 @@
                         <div class="phone">
                             <i class="bi bi-phone"></i>
                             <h4>Call:</h4>
-                            <p>+91 8936938690, +91 8126664363</p>
+                            <p>0581-3585883, +91 8126664363</p>
                         </div>
                         <img src="assets/img/contact.png" alt="">
                     </div>
