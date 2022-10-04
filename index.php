@@ -373,7 +373,7 @@
                                 <div class="phone">
                                     <i class="bi bi-phone"></i>
                                     <h4>Call:</h4>
-                                    <p>0581-3585883, +91 9368850126</p>
+                                    <p>0581-3585883, +91 8126664363</p>
                                 </div>
                                 <img src="assets/img/contact.png" alt="">
                             </div>
@@ -455,7 +455,7 @@
                             C-99, Sector-2<br>
                             Noida, Uttar Pradesh<br>
                             India <br>
-                            <strong>Phone:</strong> 0581-3585883, <br>+91 9368850126<br>
+                            <strong>Phone:</strong> 0581-3585883, <br>+91 8126664363<br>
                             <strong>Email:</strong> contact@dabotics.com<br>
                         </p>
                     </div>
