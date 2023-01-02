@@ -1857,3 +1857,47 @@ section {
   height: 28.75rem;
   align-items: center;
 }
+.fixed-btn {
+  position: fixed;
+    bottom: 7%;
+    right: 3%;
+  background: rgb(76, 202, 90);
+  width: 61px;
+  height: 57px;
+  line-height: 54px;
+  text-align: center;
+  border-radius: 40px;
+  box-shadow: 4px 4px 4px rgb(18, 140, 126);
+  cursor: pointer;
+}
+@media (max-width: 768px) {
+  .fixed-btn {
+    bottom: 7%;
+    right: 3%;
+  }
+}
+.fixed-btn p {
+  text-transform: uppercase;
+  font-weight: 900;
+  color: #fff;
+}
+
+.fixed-btn:active {
+  box-shadow: 0 0;
+}
+
+.fixed-btn :hover {
+  transition: ease-in-out 1s;
+  right: 93%;
+}
+.pjcs3 {
+  text-align: center;
+  margin: 0% 9%;
+}
+.pjcs4 {
+  font-weight: 800;
+  font-size: 2rem;
+}
+.pjcs5 {
+  color: white;
+}

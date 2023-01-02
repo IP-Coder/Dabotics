@@ -3,7 +3,7 @@
 
 <head>
 
-    <title>PHP BootCamp</title>
+    <title>Registration Form</title>
     <?php
     include 'Header.php'
     ?>
@@ -27,19 +27,13 @@
     ?>
     <!-- End Header -->
     <!-- ======= Form Section ======= -->
-<!--     <section id="services" class="forms" style="margin-top: 60px;">
+    <section id="services" class="forms" style="margin-top: 60px;">
         <div class="container">
-            <h1 class=" text-center">Full Stack Web Development Program Demo Session</h1>
-            <p style="margin-top:20px;" class=" text-center">In this demo session, you will get an overview of the
-                full-stack web
-                development opportunities in the
-                market along with the Internship Program details like the technologies you will learn, about the product
-                you will build, the certificates offered in the program, the program schedule, fees, and payment
-                options. Also, there will be a live coding demo where we will walk you through a simple web application
-                built from scratch.</p>
+            <h1 class=" text-center ">Registration Form</h1>
+
         </div>
-        <div class="container">
-            <form class="row g-3" action="Success.php" method="POST">
+        <div class="container my-5">
+            <form class="row g-3" action="webdevsuc.php" method="POST">
                 <div class="col-md-6">
                     <label for="inputEmail4" class="form-label">Name <sup style="color: red;"> *</sup></label>
                     <input type="text" name="name" required class="form-control" id="inputEmail4">
@@ -55,25 +49,27 @@
                         placeholder="9874****21">
                 </div>
                 <div class="col-md-6">
-                    <label for="inputCity" class="form-label">College / University <sup style="color: red;">
+                    <label for="inputState" class="form-label"> Course<sup style="color: red;">*</sup>
+                    </label>
+                    <input type="text" name="Gyear" required class="form-control" id="inputCity">
+
+                </div>
+                <div class="col-md-6">
+                    <label for="inputCity" class="form-label">Institute / University <sup style="color: red;">
                             *</sup></label>
                     <input type="text" name="coluni" required class="form-control" id="inputCity">
                 </div>
-                <div class="col-md-12">
-                    <label for="inputState" class="form-label">Why you want to join this session <sub> (optional)</sub>
+                <div class="col-md-6">
+                    <label for="inputState" class="form-label">Current Year <sup style="color: red;">*</sup>
                     </label>
-                    <input type="text" name="mssg" required class="form-control" id="inputCity">
+                    <input type="text" name="Cyear" required class="form-control" id="inputCity">
 
                 </div>
-                <div class="text-center "><button class="btn1" type=" submit">Send Message</button></div>
+                <div class="text-center "><button class="btn1" type=" submit">Register Here
+                    </button></div>
             </form>
         </div>
-    </section> -->
-    <section id="services" class="forms" style="margin-top: 60px;">
-        <iframe class="center"
-        src="https://docs.google.com/forms/d/e/1FAIpQLSfabnQed8S17r-Uls8j5FL43_mTNXaM_102UAXta1SHO4Gs0g/viewform?embedded=true"
-        width="100%" height="1809" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-          </section>
+    </section>
     <!-- ======= Footer ======= -->
     <?php
     include 'Footer.php'

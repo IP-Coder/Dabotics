@@ -6,7 +6,8 @@
     <?php
     include 'Header.php'
     ?>
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7545298674584153"
+     crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -30,314 +31,101 @@
 
                 <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
                     <div class="box featured">
-                        <h3>Python</h3>
-                        <h4><sup>₹
-                            </sup>10000<span> </span></h4>
-                        <h4><span>Course Duration:45 days</span></h4>
-
-                        <ul>
-                            <li><i class="bx bx-check"></i> Only 15 users will in batch .
-                            </li>
-                            <li><i class="bx bx-check"></i>Training by industry experts.
-                            </li>
-                            <li><i class="bx bx-check"></i> IIT'S and NIT'S trainers
-                            </li>
-                            <li><i class="bx bx-check"></i> 15+ projects.</li>
-                            <li><i class="bx bx-check"></i> 100% job Assistance.</li>
-                        </ul>
-                        <a href="https://www.payumoney.com/paybypayumoney/#/B63C3AC7E4EAE26C12B4E0C5806280BF"
-                            class="buy-btn">Enroll Now</a>
-                    </div>
-                </div>
-                <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
-                    <div class="box featured">
-                        <h3>AI With Python</h3>
-                        <h4><sup>₹
-                            </sup>15000<span> </span></h4>
-                        <h4><span>Course Duration:60 days</span></h4>
-
-                        <ul>
-                            <li><i class="bx bx-check"></i> Only 10 user will in batch.
-                            </li>
-                            <li><i class="bx bx-check"></i> Training by industry experts.
-                            </li>
-                            <li><i class="bx bx-check"></i> IISC And IIT'S Trainers.
-                            </li>
-                            <li><i class="bx bx-check"></i> 10+ Al project.</li>
-                            <li><i class="bx bx-check"></i> 100% job Assistance.
-                            </li>
-                        </ul>
-                        <a href="https://www.payumoney.com/paybypayumoney/#/5B4B95AD2A8C34FACA4B52CA4BCE608E"
-                            class="buy-btn">Enroll Now</a>
-                    </div>
-                </div>
-                <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
-                    <div class="box featured">
-                        <h3>Robotics</h3>
-                        <h4><sup>₹
-                            </sup>10000<span> </span></h4>
-                        <h4><span>Course Duration:60 days</span></h4>
-
-                        <ul>
-                            <li><i class="bx bx-check"></i>Only 10 user will in batch.
-                            </li>
-                            <li><i class="bx bx-check"></i>Training by industry experts.
-                            </li>
-                            <li><i class="bx bx-check"></i>Hardware kits .
-                            </li>
-                            <li><i class="bx bx-check"></i>Practical knowledge.
-                            </li>
-                            <li><i class="bx bx-check"></i>IISC And IIT'S Trainers.
-                            </li>
-                            <li><i class="bx bx-check"></i>100% job Assistance.
-                            </li>
-                        </ul>
-                        <a href="https://www.payumoney.com/paybypayumoney/#/E8331284E6B231E71B2B390D950E3856"
-                            class="buy-btn">Enroll Now</a>
-                    </div>
-                </div>
-
-            </div>
-            <div class="row">
-
-                <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
-                    <div class="box featured">
-                        <h3>Java</h3>
-                        <h4><sup>₹
-                            </sup>10000<span> </span></h4>
-                        <h4><span>Course Duration:45 days</span></h4>
-
-                        <ul>
-                            <li><i class="bx bx-check"></i> Only 10 user will in batch.
-                            </li>
-                            <li><i class="bx bx-check"></i> Training by industry experts.
-                            </li>
-                            <li><i class="bx bx-check"></i> IISC And IIT'S Trainers.
-                            </li>
-                            <li><i class="bx bx-check"></i>Practical knowledge
-                            </li>
-                            <li><i class="bx bx-check"></i>10+ Industry Project.
-                            </li>
-                            <li><i class="bx bx-check"></i>100% job Assistance.
-                            </li>
-                        </ul>
-                        <a href="https://www.payumoney.com/paybypayumoney/#/A5F60664FC03F09E56859AE8C1FF24E8"
-                            class="buy-btn">Enroll Now</a>
-                    </div>
-                </div>
-                <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
-                    <div class="box featured">
-                        <h3>Full Stack Web Development</h3>
-                        <h4><sup>₹
-                            </sup>15000<span> </span></h4>
-                        <h4><span>Course Duration:60 days</span></h4>
-
-                        <ul>
-                            <li><i class="bx bx-check"></i> Only 10 user will in batch.
-                            </li>
-                            <li><i class="bx bx-check"></i> Training by industry experts.
-                            </li>
-                            <li><i class="bx bx-check"></i> IISC And IIT'S Trainers.
-                            </li>
-                            <li><i class="bx bx-check"></i>Practical knowledge
-                            </li>
-                            <li><i class="bx bx-check"></i>10+ Industry Project.
-                            </li>
-                            <li><i class="bx bx-check"></i>100% job Assistance.
-                            </li>
-                        </ul>
-                        <a href="https://www.payumoney.com/paybypayumoney/#/BF43E09D8BB97321933FB15D490318A5"
-                            class="buy-btn">Enroll Now</a>
-                    </div>
-                </div>
-                <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
-                    <div class="box featured">
-                        <h3>Cpp</h3>
-                        <h4><sup>₹
-                            </sup>8000<span> </span></h4>
-                        <h4><span>Course Duration:90 days</span></h4>
-
-                        <ul>
-                            <li><i class="bx bx-check"></i> Only 15 user will in batch.
-                            </li>
-                            <li><i class="bx bx-check"></i> Training by industry experts.
-                            </li>
-                            <li><i class="bx bx-check"></i> Deep dive in programming.
-                            </li>
-                            <li><i class="bx bx-check"></i> IISC And IIT'S Trainers.
-                            </li>
-                            <li><i class="bx bx-check"></i> Practical knowledge
-                            </li>
-                            <li><i class="bx bx-check"></i>10 Project.
-                            </li>
-                            <li><i class="bx bx-check"></i>100% job Assistance.
-                            </li>
-                        </ul>
-                        <a href="#" class="buy-btn">Enroll Now</a>
-                    </div>
-                </div>
-
-            </div>
-            <div class="row">
-
-                <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
-                    <div class="box featured">
-                        <h3>DSA With Cpp</h3>
-                        <h4><sup>₹
-                            </sup>10000<span> </span></h4>
-                        <h4><span>Course Duration:45 days</span></h4>
-
-                        <ul>
-                            <li><i class="bx bx-check"></i> Only 10 user will in batch.
-                            </li>
-                            <li><i class="bx bx-check"></i> Training by industry experts.
-                            </li>
-                            <li><i class="bx bx-check"></i> IISC And IIT'S Trainers.
-                            </li>
-                            <li><i class="bx bx-check"></i>Practical knowledge
-                            </li>
-                            <li><i class="bx bx-check"></i>10+ Industry Project.
-                            </li>
-                            <li><i class="bx bx-check"></i>100% job Assistance.
-                            </li>
-                        </ul>
-                        <a href="https://www.payumoney.com/paybypayumoney/#/A5F60664FC03F09E56859AE8C1FF24E8"
-                            class="buy-btn">Enroll Now</a>
-                    </div>
-                </div>
-                <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
-                    <div class="box featured">
-                        <h3>Frontend Web Development</h3>
-                        <h4><sup>₹
-                            </sup>15000<span> </span></h4>
-                        <h4><span>Course Duration:60 days</span></h4>
-
-                        <ul>
-                            <li><i class="bx bx-check"></i> Only 10 user will in batch.
-                            </li>
-                            <li><i class="bx bx-check"></i> Training by industry experts.
-                            </li>
-                            <li><i class="bx bx-check"></i> IISC And IIT'S Trainers.
-                            </li>
-                            <li><i class="bx bx-check"></i>Practical knowledge
-                            </li>
-                            <li><i class="bx bx-check"></i>10+ Industry Project.
-                            </li>
-                            <li><i class="bx bx-check"></i>100% job Assistance.
-                            </li>
-                        </ul>
-                        <a href="https://www.payumoney.com/paybypayumoney/#/BF43E09D8BB97321933FB15D490318A5"
-                            class="buy-btn">Enroll Now</a>
-                    </div>
-                </div>
-                <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
-                    <div class="box featured">
-                        <h3>Android Development</h3>
-                        <h4><sup>₹
-                            </sup>8000<span> </span></h4>
-                        <h4><span>Course Duration:90 days</span></h4>
-
-                        <ul>
-                            <li><i class="bx bx-check"></i> Only 15 user will in batch.
-                            </li>
-                            <li><i class="bx bx-check"></i> Training by industry experts.
-                            </li>
-                            <li><i class="bx bx-check"></i> Deep dive in programming.
-                            </li>
-                            <li><i class="bx bx-check"></i> IISC And IIT'S Trainers.
-                            </li>
-                            <li><i class="bx bx-check"></i> Practical knowledge
-                            </li>
-                            <li><i class="bx bx-check"></i>10 Project.
-                            </li>
-                            <li><i class="bx bx-check"></i>100% job Assistance.
-                            </li>
-                        </ul>
-                        <a href="#" class="buy-btn">Enroll Now</a>
-                    </div>
-                </div>
-
-            </div>
-            <div class="row">
-
-                <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
-                    <div class="box featured">
-                        <h3>Digital Marketing</h3>
-                        <h4><sup>₹
-                            </sup>12000<span> </span></h4>
-                        <h4><span>Course Duration:45 days</span></h4>
-
-                        <ul>
-                            <li><i class="bx bx-check"></i> Only 10 user will in batch.
-                            </li>
-                            <li><i class="bx bx-check"></i> Training by industry experts.
-                            </li>
-                            <li><i class="bx bx-check"></i> IISC And IIT'S Trainers.
-                            </li>
-                            <li><i class="bx bx-check"></i>Practical knowledge
-                            </li>
-                            <li><i class="bx bx-check"></i>10+ Industry Project.
-                            </li>
-                            <li><i class="bx bx-check"></i>100% job Assistance.
-                            </li>
-                        </ul>
-                        <a href="#" class="buy-btn">Enroll Now</a>
-                    </div>
-                </div>
-                <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
-                    <div class="box featured">
-                        <h3>Iot (Internet of things)
-                        </h3>
-                        <h4><sup>₹
-                            </sup>12000<span> </span></h4>
-                        <h4><span>Course Duration:60 days</span></h4>
-
-                        <ul>
-                            <li><i class="bx bx-check"></i> Only 10 user will in batch.
-                            </li>
-                            <li><i class="bx bx-check"></i> Training by industry experts.
-                            </li>
-                            <li><i class="bx bx-check"></i> IISC And IIT'S Trainers.
-                            </li>
-                            <li><i class="bx bx-check"></i>Practical knowledge
-                            </li>
-                            <li><i class="bx bx-check"></i>10+ Industry Project.
-                            </li>
-                            <li><i class="bx bx-check"></i>100% job Assistance.
-                            </li>
-                        </ul>
-                        <a href="#" class="buy-btn">Enroll Now</a>
-                    </div>
-                </div>
-                <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
-                    <div class="box featured">
-                        <h3>Cyber Security</h3>
+                        <h3>Artificial Intelligence (AI)</h3>
                         <h4><sup>₹
                             </sup>25000<span> </span></h4>
                         <h4><span>Course Duration:90 days</span></h4>
 
                         <ul>
-                            <li><i class="bx bx-check"></i> Only 5 user will in batch.
+                            <li><i class="bx bx-check"></i> Only 10 user will in batch.
                             </li>
                             <li><i class="bx bx-check"></i> Training by industry experts.
                             </li>
                             <li><i class="bx bx-check"></i> IISC And IIT'S Trainers.
                             </li>
-                            <li><i class="bx bx-check"></i> Practical knowledge
+                            <li><i class="bx bx-check"></i> 10+ Industry project.</li>
+                            <li><i class="bx bx-check"></i> 100% job Assistance.
+                            </li>
+                        </ul>
+                        <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_KS93jQtHlbAeTU" async> </script> </form>
+                    </div>
+                </div>
+                <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
+                    <div class="box featured">
+                        <h3>Machine Learning (ML)</h3>
+                        <h4><sup>₹
+                            </sup>25000<span> </span></h4>
+                        <h4><span>Course Duration:90 days</span></h4>
+
+                        <ul>
+                            <li><i class="bx bx-check"></i> Only 10 user will in batch.
+                            </li>
+                            <li><i class="bx bx-check"></i> Training by industry experts.
+                            </li>
+                            <li><i class="bx bx-check"></i> IISC And IIT'S Trainers.
                             </li>
                             <li><i class="bx bx-check"></i>10+ Industry Project.
                             </li>
                             <li><i class="bx bx-check"></i>100% job Assistance.
                             </li>
                         </ul>
-                        <a href="https://www.payumoney.com/paybypayumoney/#/CD15A64DAF081D09DDA911E159C9AF3F"
-                            class="buy-btn">Enroll Now</a>
+                        <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_KS9DziOEeWv1hI" async> </script> </form>
                     </div>
                 </div>
+                
+                <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
+                    <div class="box featured">
+                        <h3>Iot (Internet of things)
+                        </h3>
+                        <h4><sup>₹
+                            </sup>25000<span> </span></h4>
+                        <h4><span>Course Duration:90 days</span></h4>
 
+                        <ul>
+                            <li><i class="bx bx-check"></i> Only 10 user will in batch.
+                            </li>
+                            <li><i class="bx bx-check"></i> Training by industry experts.
+                            </li>
+                            <li><i class="bx bx-check"></i> IISC And IIT'S Trainers.
+                            </li>
+                            <li><i class="bx bx-check"></i>Practical knowledge
+                            </li>
+                            <li><i class="bx bx-check"></i>10+ Industry Project.
+                            </li>
+                            <li><i class="bx bx-check"></i>100% job Assistance.
+                            </li>
+                        </ul>
+                        <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_KS8bpO7Co0VNdg" async> </script> </form>
+                    </div>
+                </div>
             </div>
+            <div class="row">
+                
+                <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
+                    <div class="box featured">
+                        <h3>Full Stack Web Development</h3>
+                        <h4><sup>₹
+                            </sup>18000<span> </span></h4>
+                        <h4><span>Course Duration:90 days</span></h4>
 
-        </div>
+                        <ul>
+                            <li><i class="bx bx-check"></i> Only 10 user will in batch.
+                            </li>
+                            <li><i class="bx bx-check"></i> Training by industry experts.
+                            </li>
+                            <li><i class="bx bx-check"></i> IISC And IIT'S Trainers.
+                            </li>
+                            <li><i class="bx bx-check"></i>Practical knowledge
+                            </li>
+                            <li><i class="bx bx-check"></i>10+ Industry Project.
+                            </li>
+                            <li><i class="bx bx-check"></i>100% job Assistance.
+                            </li>
+                        </ul>
+                        <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_KS8rYKrSYJSRAo" async> </script> </form>
+                    </div>
+                </div>
+            </div>
     </section><!-- End Pricing Section -->
 
     <!-- ======= Footer ======= -->

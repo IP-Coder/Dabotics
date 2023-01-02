@@ -8,17 +8,19 @@
     include 'Header.php'
     ?>
     <style>
-        .img-fluid {
-            max-width: 8rem;
-            height: fit-content;
-        }
+    .img-fluid {
+        max-width: 8rem;
+        height: fit-content;
+    }
 
-        #hero {
-            background-image: url(assets/img/BG/main.jpg);
-            background-position: center;
-            background-size: cover;
-        }
+    #hero {
+        background-image: url(assets/img/BG/main.jpg);
+        background-position: center;
+        background-size: cover;
+    }
     </style>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7545298674584153"
+        crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -36,7 +38,7 @@
                 <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1"
                     data-aos="fade-up" data-aos-delay="200">
                     <h1>THE FUTURE OF MOBILITY IS HERE</h1>
-                    <h2>Discover the Safest self-driving experience with Dabotics</h2>
+                    <h2>Discover the Safest self-driving experience with Dabotics India pvt. ltd.</h2 </div>
                     <div class="d-flex justify-content-center justify-content-lg-start">
                         <a href="Registration.php" class="btn-get-started scrollto">Get Started</a>
                     </div>
@@ -51,7 +53,6 @@
         <!-- ======= Services Section ======= -->
         <section id="services" class="services section-bg">
             <div class="container" data-aos="fade-up">
-
                 <div class="section-title">
                     <h2>Services</h2>
                     <p>Its all began with a group of people who dreamt of starting something completely new. Together ,
@@ -99,78 +100,7 @@
             </div>
         </section><!-- End Services Sectin -->
 
-        <!-- ======= Team Section ======= -->
 
-        <!-- <section id="team" class="team section-bg">
-            <div class="container" data-aos="fade-up">
-
-                <div class="section-title">
-                    <h2>Team</h2>
-                    <p>We continuously bulding a great team to teach you in a great manner.<br>Feel free to get
-                        connected with our team</p>
-                </div>
-
-                <div class="row">
-
-                    <div class="col-lg-6">
-                        <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
-                            <div class="pic"><img src="assets/img/team/team-1.webp" class="img-fluid" alt=""></div>
-                            <div class="member-info">
-                                <h4>Sachin Srivastav</h4>
-                                <span>CEO</span>
-                                <p>Don't stop Chasing your Dreams ,Beacause Dream Do Come True</p>
-                                <div class="social">
-                                    <a href=""><i class="ri-twitter-fill"></i></a>
-                                    <a href=""><i class="ri-facebook-fill"></i></a>
-                                    <a href=""><i class="ri-instagram-fill"></i></a>
-
-                                </div> <a href=""> <i class="ri-linkedin-box-fill" target="_blank"></i> </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
-                        <div class="pic"><img src="assets/img/team/team-4.png" class="img-fluid" alt=""></div>
-                        <div class="member-info">
-                            <h4>Er. Prakhar Sarswat</h4>
-                            <h6>From Samsung Electronics</h6>
-                            <span>CTO</span>
-                            <p>Addition of small steps let you closer to yous<br> goal</p>
-                            <div class="social">
-                                <a href=""><i class="ri-twitter-fill"></i></a>
-                                <a href=""><i class="ri-facebook-fill"></i></a>
-                                <a href=""><i class="ri-instagram-fill"></i></a>
-                                <a href="https://www.linkedin.com/in/prakharsarswat/" target="_blank"> <i
-                                        class="ri-linkedin-box-fill"></i> </a>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    <div class="col-lg-6 mt-4 mt-lg-0">
-                        <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="200">
-                            <div class="pic"><img src="assets/img/team/team-2.webp" class="img-fluid" alt="">
-                            </div>
-                            <div class="member-info">
-                                <h4>Pranjal Shrivastava</h4>
-                                <span>Co-Founder</span>
-                                <p>Perfection is achieved when there is nothing more to take away.</p>
-                                <div class="social">
-                                    <a href=""><i class="ri-twitter-fill"></i></a>
-                                    <a href=""><i class="ri-facebook-fill"></i></a>
-                                    <a href="https://www.instagram.com/pranjal.9.0.4.4/" target="_blank"><i
-                                            class="ri-instagram-fill"></i></a>
-                                    <a href="https://www.linkedin.com/in/devilcoder/" target="_blank"> <i
-                                            class="ri-linkedin-box-fill"></i> </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div> -->
-        <!-- End Team Section -->
         <div class="pricing" sty </section>
             <!-- ======= Frequently Asked Questions Section ======= -->
             <section id="faq" class="faq section-bg">
@@ -340,7 +270,15 @@
 
                 </div>
             </section><!-- End Frequently Asked Questions Section -->
-
+            <script async
+                src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7545298674584153"
+                crossorigin="anonymous"></script>
+            <!-- FirstAd -->
+            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7545298674584153"
+                data-ad-slot="4270295808" data-ad-format="auto" data-full-width-responsive="true"></ins>
+            <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
             <!-- ======= Contact Section ======= -->
             <section id="contact" class="contact">
                 <div class="container" data-aos="fade-up">
@@ -359,8 +297,8 @@
                                 <div class="address">
                                     <i class="bi bi-geo-alt"></i>
                                     <h4>Location:</h4>
-                                    <p>C-99, Sector-2 <br>
-                                        Noida, Uttar Pradesh<br>
+                                    <p>DD Puram
+                                        Bareilly,<br>Uttar Pradesh 243001<br>
                                         India <br> </p>
                                 </div>
 
@@ -408,8 +346,25 @@
                 </div>
             </section>
             <!-- End Contact Section -->
-
+            <script async
+                src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7545298674584153"
+                crossorigin="anonymous"></script>
+            <!-- FirstAd -->
+            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7545298674584153"
+                data-ad-slot="4270295808" data-ad-format="auto" data-full-width-responsive="true"></ins>
+            <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
     </main><!-- End #main -->
+    <div class="fixed-btn">
+        <div class="pjcs3 pjcs5"><a class="pjcs5"
+                href="https://api.whatsapp.com/send/?phone=+918126664363&text=Hi!%20I%20am%20interested%20in%20your%20services%20please%20contact%20me%20shortly."><svg
+                    xmlns="http://www.w3.org/2000/svg" width="45" height="45" fill="currentColor" class="bi bi-whatsapp"
+                    viewBox="0 0 16 16">
+                    <path
+                        d="M13.601 2.326A7.854 7.854 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.057 3.965L0 16l4.204-1.102a7.933 7.933 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.898 7.898 0 0 0 13.6 2.326zM7.994 14.521a6.573 6.573 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.557 6.557 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592zm3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.729.729 0 0 0-.529.247c-.182.198-.691.677-.691 1.654 0 .977.71 1.916.81 2.049.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.171-.48 1.338-.943.164-.464.164-.86.114-.943-.049-.084-.182-.133-.38-.232z" />
+                </svg></a></div>
+    </div>
 
     <!-- ======= Footer ======= -->
     <footer id="footer">
@@ -444,7 +399,15 @@
                 </div>
             </div>
         </div>
-
+        <script async
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7545298674584153"
+            crossorigin="anonymous"></script>
+        <!-- FirstAd -->
+        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7545298674584153"
+            data-ad-slot="4270295808" data-ad-format="auto" data-full-width-responsive="true"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
         <div class="footer-top">
             <div class="container">
                 <div class="row">
@@ -452,12 +415,12 @@
                     <div class="col-lg-3 col-md-6 footer-contact">
                         <h3>DaBotics</h3>
                         <p>
-                            C-99, Sector-2<br>
-                            Noida, Uttar Pradesh<br>
-                            India <br>
-                            <strong>Phone:</strong> 0581-3585883, <br>+91 8126664363<br>
-                            <strong>Email:</strong> contact@dabotics.com<br>
-                        </p>
+                            DD Puram
+                            Bareilly,<br>Uttar Pradesh 243001<br>
+                            India <br> </p>
+                        <strong>Phone:</strong> 0581-3585883, <br>+91 8126664363<br>
+                        <strong>Email:</strong> contact@dabotics.com<br>
+
                     </div>
 
                     <div class="col-lg-3 col-md-6 footer-links">
@@ -473,7 +436,8 @@
                         <h4>Our Services</h4>
                         <ul>
                             <li><i class="bx bx-chevron-right"></i> <a href="Workshop.php">Workshop</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="ProjectAssistance.php">Project Assistance</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="ProjectAssistance.php">Project
+                                    Assistance</a></li>
                             <li><i class="bx bx-chevron-right"></i> <a href="LabSetup.php">Lab Setup</a></li>
                         </ul>
                     </div>
@@ -482,15 +446,15 @@
                         <h4>Our Social Networks</h4>
                         <p>Feel Free To Contact Us By Social Networks</p>
                         <div class="social-links mt-3">
-             
-                            <a href="https://www.facebook.com/dabotics" class="facebook"
-                                target="0"><i class="bx bxl-facebook"></i></a>
+
+                            <a href="https://www.facebook.com/dabotics" class="facebook" target="0"><i
+                                    class="bx bxl-facebook"></i></a>
                             <a href="https://www.instagram.com/dabotics/" class="instagram" target="0"><i
                                     class="bx bxl-instagram"></i></a>
                             <a href="https://wa.me/919368850126" class="google-plus" target="0"><i
                                     class="bx bxl-whatsapp"></i></a>
-                            <a href="https://www.linkedin.com/company/dabotics-india-pvt-ltd/" class="linkedin" target="0"><i
-                                    class="bx bxl-linkedin"></i></a>
+                            <a href="https://www.linkedin.com/company/dabotics-india-pvt-ltd/" class="linkedin"
+                                target="0"><i class="bx bxl-linkedin"></i></a>
                         </div>
                     </div>
 
@@ -502,9 +466,7 @@
             <div class="copyright">
                 &copy; Copyright <strong><span>DaBotics</span></strong>. All Rights Reserved
             </div>
-            <div class="credits">
-                A Unit Of<a href=" "> DAVINCI AUTOMATIONS</a>
-            </div>
+
         </div>
     </footer><!-- End Footer -->
 
@@ -522,17 +484,17 @@
     <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous">
-        </script>
+    </script>
 
     <!-- Template Main JS File -->
     <script src="assets/js/main.js"></script>
     <!-- CArousel JS -->
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
         integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
-        </script>
+    </script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous">
-        </script>
+    </script>
 
 
 </body>

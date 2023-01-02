@@ -9,14 +9,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $clguni = $_POST["coluni"];
     $messege = $_POST["mssg"];
     if (filter_var($email, FILTER_VALIDATE_EMAIL) && $name != "" && $email != "") {
-        
+
         // the message
         $msg = "Name :- $name \nE-Mail :- $email \nMob. :- $number \nCollege / Uni :- $clguni \nCourse:- Web Development";
 
         // use wordwrap() if lines are longer than 70 characters;
-        $course="Web Development";
+        $course = "Web Development";
         // send email
-        mail("dabotics@gmail.com","New Registration",$msg);
+        mail("dabotics@gmail.com", "New Registration", $msg);
         $sql = "INSERT INTO `Demo` (`Name`, `Email`, `Number`, `CllgUni`, `Message`,`Course`) VALUES ('$name','$email','$number','$clguni','$messege','$course')";
 
         $result = mysqli_query($conn, $sql);
@@ -64,13 +64,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <!-- End Header -->
     <section id="services" class="forms" style="margin-top: px;">
         <div class="container" id="div2" mt-10>
-            
-            <h1><?php echo "Welcome $name"?></h1>
+
+            <h1><?php echo "Welcome $name" ?></h1>
             <h2>You have succesfully registerd for the Full Stack Web Development Program Demo Session.</h2>
             <h3 class="mt-3 mb-5">Join our WhatsApp group for future updates.</h3>
         </div>
-        <div class="container mt-5 text-center"><a class="btn1"
-                href="https://chat.whatsapp.com">Join
+        <div class="container mt-5 text-center"><a class="btn1" href="https://chat.whatsapp.com">Join
                 Group</a>
         </div>
 

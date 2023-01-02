@@ -4,9 +4,7 @@
             <div class="copyright">
                 &copy; Copyright <strong><span>DaBotics</span></strong>. All Rights Reserved
             </div>
-            <div class="credits">
-                A Unit Of<a href=" " target="0"> DAVINCI AUTOMATIONS</a>
-            </div>
+        
         </div>
     </footer><!-- End Footer -->
 

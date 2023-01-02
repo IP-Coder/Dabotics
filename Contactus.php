@@ -34,9 +34,9 @@
                         <div class="address">
                             <i class="bi bi-geo-alt"></i>
                             <h4>Location:</h4>
-                            <p> C-99 SECOND FLOOR SECTOR- 2 <br>
-                                NOIDA UTTAR PRADESH<br>
-                                India </p>
+                            <p>DD Puram
+                                       Bareilly<br>Uttar Pradesh 243001<br>
+                                        India <br> </p>
                         </div>
 
                         <div class="email">

@@ -1,0 +1,68 @@
+/* My own clazses */
+.bg-white {
+  background-color: white;
+}
+.txt-center {
+  text-align: center;
+}
+
+/* webste css strats  */
+body {
+  background-color: rgb(219, 244, 241);
+  /* background-image: url(/Background.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover; */
+  font-family: "Times New Roman";
+}
+.Main {
+  margin-top: 6rem;
+}
+#MainH {
+  color: rgb(24, 119, 242);
+  font-weight: bold;
+}
+.formC {
+  -webkit-box-shadow: -1px -3px 12px 15px rgba(195, 204, 217, 0.49);
+  -moz-box-shadow: -1px -3px 12px 15px rgba(195, 204, 217, 0.49);
+  box-shadow: -1px -3px 12px 15px rgba(195, 204, 217, 0.49);
+  padding: 2rem;
+  background-color: white;
+  border-radius: 0.7rem;
+}
+.formBtn {
+  display: flex;
+  flex-direction: column;
+}
+.main-img {
+  width: 73%;
+  height: 100%;
+  border-radius: 100rem;
+  background-size: cover;
+}
+
+/*To handle the header in hospital.php */
+.c-white {
+  color: white;
+}
+.scroller {
+  padding: 4px;
+  height: 314px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align: justify;
+}
+.shape {
+  border: 1px solid red;
+  border-radius: 100rem;
+  padding: 10px;
+}
+.mainIN {
+  display: flex;
+  flex-direction: row;
+}
+@media (max-width: 759px) {
+  .mainIN {
+    flex-direction: column;
+  }
+}

@@ -8,7 +8,9 @@
         <?php
         include 'Header.php'
         ?>
-
+        <script async
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7545298674584153"
+            crossorigin="anonymous"></script>
     </head>
 
     <body>
@@ -72,6 +74,14 @@
 
 
                 </div>
+                <script async
+                    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7545298674584153"
+                    crossorigin="anonymous"></script>
+                <ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed"
+                    data-ad-client="ca-pub-7545298674584153" data-ad-slot="4333342155"></ins>
+                <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
 
             </div>
         </section><!-- End Services Sectin -->
