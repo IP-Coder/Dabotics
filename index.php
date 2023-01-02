@@ -270,6 +270,7 @@
 
                 </div>
             </section><!-- End Frequently Asked Questions Section -->
+            <!-- My Google Ads Here Dont Touch This Code -->
             <script async
                 src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7545298674584153"
                 crossorigin="anonymous"></script>
@@ -279,6 +280,7 @@
             <script>
             (adsbygoogle = window.adsbygoogle || []).push({});
             </script>
+            <!-- My Google Ads Here Dont Touch This Code -->
             <!-- ======= Contact Section ======= -->
             <section id="contact" class="contact">
                 <div class="container" data-aos="fade-up">
@@ -346,6 +348,7 @@
                 </div>
             </section>
             <!-- End Contact Section -->
+            <!-- My Google Ads Here Dont Touch This Code -->
             <script async
                 src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7545298674584153"
                 crossorigin="anonymous"></script>
@@ -355,6 +358,7 @@
             <script>
             (adsbygoogle = window.adsbygoogle || []).push({});
             </script>
+            <!-- My Google Ads Here Dont Touch This Code -->
     </main><!-- End #main -->
     <div class="fixed-btn">
         <div class="pjcs3 pjcs5"><a class="pjcs5"
@@ -399,6 +403,7 @@
                 </div>
             </div>
         </div>
+        <!-- My Google Ads Here Dont Touch This Code -->
         <script async
             src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7545298674584153"
             crossorigin="anonymous"></script>
@@ -408,6 +413,7 @@
         <script>
         (adsbygoogle = window.adsbygoogle || []).push({});
         </script>
+        <!-- My Google Ads Here Dont Touch This Code -->
         <div class="footer-top">
             <div class="container">
                 <div class="row">

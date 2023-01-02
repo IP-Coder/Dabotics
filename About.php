@@ -88,7 +88,7 @@
     </section><!-- End About Us Section -->
 
     <!-- ======= Footer ======= -->
-    <div style="background-color:rgb(243,245,250); class=" footer-newsletter">
+    <div style="background-color:rgb(243,245,250);" class=" footer-newsletter">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="section-title">
@@ -117,7 +117,17 @@
                 </div>
             </div>
         </div>
-
+        <!-- My Google Ads Here Dont Touch This Code -->
+        <script async
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7545298674584153"
+            crossorigin="anonymous"></script>
+        <!-- FirstAd -->
+        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7545298674584153"
+            data-ad-slot="4270295808" data-ad-format="auto" data-full-width-responsive="true"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+        <!-- My Google Ads Here Dont Touch This Code -->
     </div>
     <?php
     include 'Footer.php'
