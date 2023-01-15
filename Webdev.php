@@ -2,22 +2,20 @@
 <html lang="en">
 
 <head>
-
     <title>Registration Form</title>
     <?php
     include 'Header.php'
     ?>
-
 </head>
 <style>
-.btn1 {
-    background: #47b2e4;
-    border: 0;
-    padding: 12px 34px;
-    color: #fff;
-    transition: 0.4s;
-    border-radius: 50px;
-}
+    .btn1 {
+        background: #47b2e4;
+        border: 0;
+        padding: 12px 34px;
+        color: #fff;
+        transition: 0.4s;
+        border-radius: 50px;
+    }
 </style>
 
 <body class="d-flex flex-column min-vh-100">
@@ -45,8 +43,7 @@
                 </div>
                 <div class="col-6">
                     <label for="inputAddress" class="form-label">Phone Number <sup style="color: red;"> *</sup></label>
-                    <input type="tel" name="number" pattern="[0-9]{10}" required class="form-control" id="inputAddress"
-                        placeholder="9874****21">
+                    <input type="tel" name="number" pattern="[0-9]{10}" required class="form-control" id="inputAddress" placeholder="9874****21">
                 </div>
                 <div class="col-md-6">
                     <label for="inputState" class="form-label"> Course<sup style="color: red;">*</sup>
