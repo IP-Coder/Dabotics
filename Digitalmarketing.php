@@ -22,7 +22,7 @@
         <div class="container" data-aos="fade-up">
 
             <div class="section-title">
-                <h2>Web Development</h2>
+                <h2>Digital Marketing</h2>
             </div>
 
             <div class="row content">
