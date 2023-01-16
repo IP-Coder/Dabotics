@@ -101,8 +101,8 @@
                             <div class="icon-box">
                                 <div class="icon"><i class="bx bxl-stack-overflow"></i></div>
                                 <h4><a href="Webdevelopment.php">Web Development</a></h4>
-                                <p>We will provide the best guidance in building a career road map according to the
-                                    candidate's dream job.</p>
+                                <p>We will provide the best responsive website desgin with latest technologies that
+                                    works across all the browsers and devices without any issues.</p>
                             </div>
                         </div>
 

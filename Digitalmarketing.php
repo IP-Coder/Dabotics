@@ -27,93 +27,98 @@
 
             <div class="row content">
                 <div class="col-lg-12">
-
-                    <p>Best Website Designing and Development Company in Bareilly
-                        Are you looking for the best website development or website designing company in Bareilly to
-                        create a professional website for your business? If yes, DABOTICS INDIA is the right choice for
-                        web designing, web development, and eCommerce website development company in Bareilly.
-                        <br>
-                        We at DABOTICS INDIA help small and large businesses to create professional, creative, and
-                        responsive websites. We develop a portfolio, corporate, eCommerce, news, and blog website with
-                        the maximum user interface and user experience.
-                        We have industries best web developers and web designers. They are experts in designing and
-                        developing all types of responsive and professional websites. Our websites take a minimum time
-                        to load and render.
-                        <br>
-                        If you want to get a professional website to grow your business online, we will help you design
-                        and promote your website under a single roof. We have proven our website designing and
-                        development skills by creating the fastest and most creative websites for various businesses. We
-                        claim to be the best web development company in Bareilly.
-                        <br>
-                        There are too many services we offer in our web designing modules. Here is the list of some most
-                        popular services we do.
-                    <h3>Responsive Web Designing</h3>
-                    Responsive web designing is commonly known as RWD. It is the art of web designing in which we
-                    create different layouts for different devices like mobile, tablets, and desktops. It adjusts
-                    its style with the width and category of the device.
-                    <h3>Re-Web Designing</h3>
-                    If you already have a website, but it doesn't meet your requirement, We will help you design it
-                    again and again. We will change the layout, color scheme, content, pages, and other things you
-                    want on your website.
-                    <h3>eCommerce Website Development</h3>
-                    In eCommerce development, we help our customers set up an eCommerce platform. We create an
-                    eCommerce platform, integrate a payment gateway, set up the delivery module, etc. We also
-                    optimize it according to search engines to be visible in top SERPs.
-                    <h3>News Website Designing</h3>
-                    If you are running a news channel or media agency, we will help you develop the best website for
-                    news and magazine. We will also assist you in getting your stories in Google's news section.
-                    Using our news website development service, you can be sure to be visible in the top search
-                    engines quickly.
-                    <h3>Portfolio Website Designing</h3>
-                    A portfolio website helps you showcase your work. We create professional and creative portfolio
-                    designs to engage more audiences easily. We also helo you write and present the right content
-                    for each module.
-                    <h3>Mobile Website Designing</h3>
-                    Mobile website designing refers to the technique of designing a mobile-only website. It helps
-                    mobile users to deliver a highly optimized user interface and user experience. It's a beneficial
-                    decision to create a mobile-first website because search engines are indexing mobile websites
-                    with priority.
-                    <h3>Real Estate Website Designing</h3>
-                    Real estate website design includes the selling and purchasing section. We offer a 100%
-                    customized real estate website to showcase the properties and deliver information about them.
-                    <h3>Blog Website Development</h3>
-                    The blog website is similar to the news website. In this, we present categories, sections, and
-                    articles. We also help bloggers to write the right and search engine-friendly content.
-                    SEO Friendly Website Development
-                    DABOTICS INDIA is the best website development company in Bareilly for SEO-friendly website
-                    development services. We optimize content, interface, loading time, and other things to increase
-                    a website's visibility in different search engines.
-                    <h3>Website Hosting</h3>
-                    Are you have a domain name and looking for the fastest web hosting to host your files? If yes,
-                    DABOTICS INDIA is the best place to get the fastest web hosting. We promise to provide a 100%
-                    uptime server to serve your website at any time.
-                    <h3>Website Maintenance</h3>
-                    Already have a website for your business and want to maintain it? If yes, DABOTICS INDIA is the
-                    right web development company in Bareilly to provide the best website maintenance services. We
-                    offer all types of maintenance services at an affordable cost.
-                    <br>
-                    <h3>What is Web Designing?</h3>
-                    Web designing is the art of creating a website and publishing it on the internet. It helps a
-                    business owner to show their products and services online. A professional and creative website
-                    increases your business visibility on the world wide web.
-                    <h3>What is the Importance of a Website?</h3>
-                    A professional and responsive website helps create an online presence and helps share quality
-                    data with your clients. Anyone can know about your products, services, and company profile by
-                    accessing your website anywhere. It also helps business owner promote their business on
-                    different digital platforms.
-                    <h3>Why Choose DABOTICS INDIA for Website Designing?</h3>
-                    <br>
-                    Want to hire a website development and website designing company in Bareilly? DABOTICS INDIA can
-                    help you create a professional and responsive website for your business. We have a team of web
-                    designers and developers with lots of industrial experience. Here are the few facts that make
-                    DABOTICS INDIA the best website development company in Bareilly. <br>
-                    1. We offer responsive web designing services at an affordable cost. <br>
-                    2. We know how to place a website in the top results of search engines. <br>
-                    3. We have an eye over all the website designing and development trends. <br>
-                    4. We optimize the website for the fastest loading maximum user interface. <br>
-                    5. Digi Friction is the fastest-growing web development company in Bareilly. <br>
-                    6. We use the latest technologies to make our services different from other companies. <br>
-                    7. We have proven our skills by developing 100+ websites for different types of business. <br>
+                    <p>
+                        Best Digital Marketing Company in Bareilly
+                        Are you finding the right digital marketing agency in Bareilly to increase brand awareness,
+                        promote your business, or generate leads for your services and products online? If yes, DABOTICS
+                        INDIA is the most suitable digital marketing company in Bareilly. <br>
+                        We help small and large businesses boost organic traffic, increase brand awareness, and generate
+                        potential leads. We also help them promote their products and services with the help of various
+                        digital utilities such as search engines and social media networks. var
+                        We have the industry's best digital marketers, social media marketers, and search engine
+                        optimization folks. They are experts in optimizing click-through rate, conversion optimization,
+                        and analyzing the needs to optimize a business. <br>
+                        They also have the best predictions to design a successful marketing strategy for a business. We
+                        have served more than 150 small and large businesses in getting recognition among their targeted
+                        audience. It's why we are the best digital marketing company in Bareilly. <br>
+                        If you want to grow organic traffic to your business website, we will help you boost your
+                        business among search engines and Google's local places and services. We have proven our SEO and
+                        local business optimization skills by placing our customers in the top 3 results. <br>
+                        There are too many modules of online marketing. Here is the list of things we do under our
+                        advertising services.
+                    <h3>Search Engine Optimization</h3>
+                    SEO is the method of growing organic traffic from search engines. It takes a long time to place
+                    a website in the top results of search engines. If you want to rank your business in search
+                    engines results pages, you need a search engine optimization service.
+                    DABOTICS INDIA is the best SEO company in Bareilly to help you place your business in the top
+                    search results of search engines. We can help you optimize your business website and build
+                    quality backlinks from high-authority websites. We will rank your business in different search
+                    engines to get the maximum organic traffic and leads.
+                    <h3>Social Meida Marketing</h3>
+                    Social media marketing (SMM) is the process of promoting a business on social media platforms.
+                    It is a completely paid service. To promote a business on social media, we need to analyze the
+                    audience, interest, age group, and targeted area.
+                    Want to promote your business on social media platforms? If yes, DABOTICS INDIA is the best
+                    social media marketing company in Bareilly to help you design the right social media marketing
+                    strategy for your business.
+                    <h3>Facebook Marketing</h3>
+                    Facebook marketing is the art of creating content and promoting it among the targeted audience
+                    to increase brand awareness and generate leads. Facebook is the most popular social media
+                    website, so it's the best place to target the interested audience online.
+                    Are you looking for the best advertising agency in Bareilly to manage your Facebook marketing
+                    campaign? If yes, contact us. We will help you create informative, creative images, content and
+                    distribute it to the targeted audience in your service area.
+                    <h3>YouTube Marketing</h3>
+                    The art of creating video content and promoting it on YouTube is YouTube marketing. YouTube is
+                    the #1 video search platform. Everyone is using YouTube to search and watch videos online.
+                    YouTube is the right platform to advertise your content to the audience interested in your
+                    products and services.
+                    Are you looking for the best digital marketing company in Bareilly to help you manage your
+                    YouTube marketing campaign? DABOTICS INDIA will help you achieve your goal. We have industries
+                    best YouTube marketing executives with vast experience in content creation and promotion.
+                    <h3>Content Writing</h3>
+                    Content writing is the art of creating unique and quality content for websites, articles, and
+                    blogs. Content writing plays a huge role in the overall online marketing strategy. High-quality
+                    content plays a huge role in search engine optimization.
+                    If you need a content writer to outsource the content for your website, blog, or articles,
+                    DABOTICS INDIA is the best content writing company in Bareilly. We know what type of content is
+                    suitable for users and search engines.
+                    <h3>Search Engine Marketing</h3>
+                    Search engine marketing is the art of promoting a website among different search engines to
+                    generate leads and increase awareness of the business. Like social media marketing, it's also a
+                    paid service. You have to pay an amount to search engines on every click. It's also known as
+                    pay-per-click.
+                    If you want to promote your business via search engine marketing or pay-per-click, DABOTICS
+                    INDIA is the best search engine marketing company in Bareilly. We have a lot of experience to
+                    bring the most suitable audience for your business.
+                    <h3>Local Business Optimization</h3>
+                    Local business optimization is the art of optimizing the small business in their local area or
+                    city. If you are running a location-based business or service, this service can help you find
+                    potential customers organically. It's cost-effective and affordable to adopt for a local
+                    business.
+                    Want to grab a local business optimization service? DABOTICS INDIA is the best advertising
+                    agency in Bareilly to fulfill your marketing needs. We have an expert team of marketers who have
+                    optimized many local businesses in a short period.
+                    <h3>What is Digital Marketing?</h3>
+                    Digital marketing is the art of promoting a brand or business through the internet. It's the
+                    modern way of marketing. It's easy to target the audience, increase the reach and awareness, and
+                    generate leads and orders from digital utilities.
+                    <h3>Why Choose Digital Marketing?</h3>
+                    As you know, everyone is using smartphones, video streaming sites, and social media platforms.
+                    So these platforms are the best way to promote your business and increase awareness of your
+                    business. It's time to choose digital marketing instead of traditional marketing. It's
+                    cost-effective and affordable.
+                    <h3>
+                        Why Choose DABOTICS INDIA for Digital Marketing?
+                    </h3>
+                    Want to hire a digital marketing agency in Bareilly? DABOTICS INDIA can help you reach your
+                    marketing goal quickly. We have a professional team with lots of industrial experience. Here are
+                    a few pints who make DABOTICS INDIA the best digital marketing company in Bareilly. <br>
+                    1. We help our customers fulfill their marketing goals. <br>
+                    2. We have an eye over all the online advertising trends. <br>
+                    3. We offer various advertising services at an affordable cost. <br>
+                    4. DABOTICS INDIA is the fastest-growing digital marketing agency in Bareilly. <br>
+                    5. We have proven our expertise by helping thousands of businesses and brands. <br>
                     </p>
 
                 </div>
