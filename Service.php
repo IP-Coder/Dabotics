@@ -74,6 +74,37 @@
 
 
                 </div>
+                <div class="row mt-5" style="justify-content: center;">
+                    <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+                        <div class="icon-box">
+                            <div class="icon"><i class="bx bxl-stack-overflow"></i></div>
+                            <h4><a href="Webdevelopment.php">Web Development</a></h4>
+                            <p>We will provide the best guidance in building a career road map according to the
+                                candidate's dream job.</p>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in"
+                        data-aos-delay="200">
+                        <div class="icon-box">
+                            <div class="icon"><i class="bx bxl-digitalocean"></i></div>
+                            <h4><a href="Digitalmarketing.php">Digital Marketing </a></h4>
+                            <p>We provide Digital Marketing Solutions to make visit updates to every one of the channels
+                                of customer/audience of engagement.</p>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in"
+                        data-aos-delay="300">
+                        <div class="icon-box">
+                            <div class="icon"><i class="bx bxl-android"></i></div>
+                            <h4><a href="Appdevelopment.php">App Development</a></h4>
+                            <p>DABOTICS serves as a platform for promotion of World class Innovation Hubs, by ROBOTICS &
+                                AI</p>
+                        </div>
+                    </div>
+
+                </div>
 
 
             </div>
