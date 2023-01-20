@@ -52,6 +52,17 @@
         flex-direction: column-reverse;
         align-items: center;
     }
+
+    .mains {
+        align-items: center;
+    }
+
+    @media screen and (max-width: 600px) {
+        .mains {
+            flex-direction: column;
+            margin-bottom: px;
+        }
+    }
     </style>
 </head>
 
@@ -66,7 +77,7 @@
         <div class="" data-aos="fade-up">
             <div class="home ">
                 <div class="container">
-                    <div class="row " style="align-items: center">
+                    <div class="row mains ">
                         <div class="col">
                             <p class="fs-1">PROFESSIONAL ECOMMERCE WEBSITE DEVELOPMENT COMPANY
                             </p>
@@ -89,10 +100,8 @@
                 <p class="fs-2">PREMIUM ECOMMERCE WEBSITES - AFFORDABLE PRICING</p>
                 </p class="fs-4">FREE DOMAIN | FREE HOSTING | FREE PROFESSIONAL EMAILS</p>
             </div>
-            <div class="pricing">
-
-
-                <div class="row row row-cols-4">
+            <div id="pricing" class="pricing">
+                <div class="row ">
 
                     <div class="col mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
                         <div class="box featured">
