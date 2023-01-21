@@ -102,7 +102,7 @@
                                 <div class="icon"><i class="bx bxl-stack-overflow"></i></div>
                                 <h4><a href="Webdevelopment.php">Web Development</a></h4>
                                 <p>We will provide the best responsive website desgin with latest technologies that
-                                    works across all the browsers and devices without any issues.</p>
+                                    works across all the browsers.</p>
                             </div>
                         </div>
 
@@ -113,7 +113,7 @@
                                 <h4><a href="Digitalmarketing.php">Digital Marketing </a></h4>
                                 <p>We provide Digital Marketing Solutions to make visit updates to every one of the
                                     channels
-                                    of customer/audience of engagement.</p>
+                                    of customer.</p>
                             </div>
                         </div>
 
@@ -122,9 +122,8 @@
                             <div class="icon-box">
                                 <div class="icon"><i class="bx bxl-android"></i></div>
                                 <h4><a href="Appdevelopment.php">App Development</a></h4>
-                                <p>DABOTICS serves as a platform for promotion of World class Innovation Hubs, by
-                                    ROBOTICS &
-                                    AI</p>
+                                <p>We're a preferred mobile app development company for startups and enterprises across
+                                    the globe. </p>
                             </div>
                         </div>
 
