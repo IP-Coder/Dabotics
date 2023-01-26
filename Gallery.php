@@ -7,8 +7,8 @@
     <?php
     include 'Header.php'
     ?>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7545298674584153"
-     crossorigin="anonymous"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7545298674584153"
+        crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -19,7 +19,7 @@
     <!-- End Header -->
     <!-- ======= Services Section ======= -->
     <section class="gallery">
-        <div class="row">
+        <div class="row r">
             <?php
             $directory = "assets/img/Gallery";
             $images = glob($directory . "/*.jpg");
