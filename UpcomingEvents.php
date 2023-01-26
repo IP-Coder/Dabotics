@@ -48,7 +48,7 @@
 
             <div class="events">
                 <div class="row ">
-                    <div class="">
+                    <div class="text-center mt-4">
                         <img src="assets/img/UpEvent/Tectonics.png" width="90%" alt="">
                     </div>
                     <div class="col Ebtn">
