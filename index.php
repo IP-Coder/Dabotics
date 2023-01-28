@@ -18,6 +18,16 @@
         background-position: center;
         background-size: cover;
     }
+
+    #popup {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: white;
+        padding: 20px;
+        border: 1px solid black;
+    }
     </style>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7545298674584153"
         crossorigin="anonymous"></script>
@@ -55,14 +65,18 @@
             <div class="container" data-aos="fade-up">
                 <div class="section-title">
                     <h2>Services</h2>
-                    <p>Its all began with a group of people who dreamt of starting something completely new. Together ,
+                    <p>Its all began with a group of people who dreamt of starting something completely new.
+                        Together ,
                         we
-                        established Dabotics India , a company dedicated to finding cuting-edge solution and providing
+                        established Dabotics India , a company dedicated to finding cuting-edge solution and
+                        providing
                         great
                         services.<br>
-                        Our Product and Services were designed to satisfy all of our custumers, anytime, anywhere . we
+                        Our Product and Services were designed to satisfy all of our custumers, anytime, anywhere .
+                        we
                         are
-                        committed to customer satisfaction as our top priority. if you want to learn more about how we
+                        committed to customer satisfaction as our top priority. if you want to learn more about how
+                        we
                         do
                         business, give us a call today.</p>
                 </div>
@@ -91,7 +105,8 @@
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-tachometer"></i></div>
                             <h4><a href="LabSetup.php">Lab Setup</a></h4>
-                            <p>DABOTICS serves as a platform for promotion of World class Innovation Hubs, by ROBOTICS &
+                            <p>DABOTICS serves as a platform for promotion of World class Innovation Hubs, by
+                                ROBOTICS &
                                 AI</p>
                         </div>
                     </div>
@@ -122,7 +137,8 @@
                             <div class="icon-box">
                                 <div class="icon"><i class="bx bxl-android"></i></div>
                                 <h4><a href="Appdevelopment.php">App Development</a></h4>
-                                <p>We're a preferred mobile app development company for startups and enterprises across
+                                <p>We're a preferred mobile app development company for startups and enterprises
+                                    across
                                     the globe. </p>
                             </div>
                         </div>
