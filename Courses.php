@@ -6,8 +6,7 @@
     <?php
     include 'Header.php'
     ?>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7545298674584153"
-        crossorigin="anonymous"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7545298674584153" crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -48,8 +47,7 @@
                             </li>
                         </ul>
                         <form>
-                            <script src="https://checkout.razorpay.com/v1/payment-button.js"
-                                data-payment_button_id="pl_KS93jQtHlbAeTU" async> </script>
+                            <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_KS93jQtHlbAeTU" async> </script>
                         </form>
                     </div>
                 </div>
@@ -73,8 +71,7 @@
                             </li>
                         </ul>
                         <form>
-                            <script src="https://checkout.razorpay.com/v1/payment-button.js"
-                                data-payment_button_id="pl_KS9DziOEeWv1hI" async> </script>
+                            <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_KS9DziOEeWv1hI" async> </script>
                         </form>
                     </div>
                 </div>
@@ -102,8 +99,7 @@
                             </li>
                         </ul>
                         <form>
-                            <script src="https://checkout.razorpay.com/v1/payment-button.js"
-                                data-payment_button_id="pl_KS8bpO7Co0VNdg" async> </script>
+                            <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_KS8bpO7Co0VNdg" async> </script>
                         </form>
                     </div>
                 </div>
@@ -132,8 +128,7 @@
                             </li>
                         </ul>
                         <form>
-                            <script src="https://checkout.razorpay.com/v1/payment-button.js"
-                                data-payment_button_id="pl_KS8rYKrSYJSRAo" async> </script>
+                            <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_KS8rYKrSYJSRAo" async> </script>
                         </form>
                     </div>
                 </div>
@@ -159,8 +154,7 @@
                             </li>
                         </ul>
                         <form>
-                            <script src="https://checkout.razorpay.com/v1/payment-button.js"
-                                data-payment_button_id="pl_KS8rYKrSYJSRAo" async> </script>
+                            <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_KS8rYKrSYJSRAo" async> </script>
                         </form>
                     </div>
                 </div>
