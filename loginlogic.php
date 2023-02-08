@@ -5,7 +5,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $logmail = $_POST["logmail"];
     $logpass = $_POST["logpass"];
     if ($logpass != "" && $logmail != "") {
-        // $hash = password_hash($logpass, PASSWORD_DEFAULT);
+        $hash = password_hash($logpass, PASSWORD_DEFAULT);
         $sql  = "SELECT * FROM `login` WHERE `email` = '$logmail'";
         $result = mysqli_query($conn, $sql);
         $num = mysqli_num_rows($result);
