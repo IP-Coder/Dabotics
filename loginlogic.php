@@ -5,17 +5,17 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $logmail = $_POST["logmail"];
     $logpass = $_POST["logpass"];
     if ($logpass != "" && $logmail != "") {
-        $hash = password_hash($logpass, PASSWORD_DEFAULT);
+        // $hash = password_hash($logpass, PASSWORD_DEFAULT);
         $sql  = "SELECT * FROM `login` WHERE `email` = '$logmail'";
         $result = mysqli_query($conn, $sql);
         $num = mysqli_num_rows($result);
+        echo "Kuch to hua hai";
         if (!$result) {
             echo  "re";
         }
         if ($num == 1) {
             $row = mysqli_fetch_assoc($result);
             if ($logpass == $row['Password']) {
-                echo "Kuch to hua hai";
                 $updatesql = "UPDATE `login` SET `last_login` = current_timestamp() WHERE `login`.`email` = '$logmail'";
                 mysqli_query($conn, $updatesql);
                 $login = true;
