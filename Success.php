@@ -15,7 +15,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         // use wordwrap() if lines are longer than 70 characters;
         $course = "Web Development";
         // send email
-        $headers = "From: hr@dabotics.com \r\n";
+        $headers = "From: hr@dabotics.com";
         mail($to, $subject, $message, $headers);
         mail("dabotics@gmail.com", "New Demo", $msg,$headers);
     } else {

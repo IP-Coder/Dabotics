@@ -50,7 +50,7 @@
                     <h1>THE FUTURE OF MOBILITY IS HERE</h1>
                     <h2>Discover the Safest self-driving experience with Dabotics India pvt. ltd.</h2 </div>
                     <div class="d-flex justify-content-center justify-content-lg-start">
-                        <a href="Registration.php" class="btn-get-started scrollto">Get Started</a>
+                        <a href="DemoRegister.php" class="btn-get-started scrollto">Get Demo</a>
                     </div>
                 </div>
 
