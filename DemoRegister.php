@@ -31,7 +31,7 @@
 
         </div>
         <div class="container my-5">
-            <form class="row g-3" action="webdevsuc.php" method="POST">
+            <form class="row g-3" action="Success.php" method="POST">
                 <div class="col-md-6">
                     <label for="inputEmail4" class="form-label">Name <sup style="color: red;"> *</sup></label>
                     <input type="text" name="name" required class="form-control" id="inputEmail4">
