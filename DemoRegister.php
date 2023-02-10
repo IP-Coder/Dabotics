@@ -48,7 +48,7 @@
                 <div class="col-md-6">
                     <label for="inputState" class="form-label"> Course<sup style="color: red;">*</sup>
                     </label>
-                    <input type="text" name="Gyear" required class="form-control" id="inputCity">
+                    <input type="text" name="course" required class="form-control" id="inputCity">
 
                 </div>
                 <div class="col-md-6">
