@@ -60,7 +60,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
             <h1><?php echo "Welcome $name" ?></h1>
             <h2>You have succesfully registerd for the Training And Internship Program.</h2>
-            <h3 class="mt-5 mb-5">Our Councellors will reach out to you soon <br>
+            <h3 class="mt-5 mb-5">Our counselors will reach out to you soon<br>
 
                 For any query write to us at <a href="mailto:contact@dabotics.com">contact@dabotics.com</a> <br>
                 To know more about us <br> <a href="https://dabotics.com">Please Click Here</a></h3>
