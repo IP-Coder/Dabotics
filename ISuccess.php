@@ -17,7 +17,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         // send email
         $headers = "From: hrintern@dabotics.com";
         mail($to, $subject, $message, $headers);
-        mail("dabotics@gmail.com", "New Demo", $msg, $headers);
+        mail("dabotics@gmail.com", "New Intern", $msg, $headers);
     } else {
         echo "There are any error in information provided by you ";
     }
