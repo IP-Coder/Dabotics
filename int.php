@@ -1,9 +1,9 @@
 <?php
 $showAlert = false;
 $showError = false;
-$err = "";
+$err="";
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    // include 'Connection.php';
+    include 'Connection.php';
     if (isset($_FILES["image"]) && $_FILES["image"]["error"] == 0) {
         $allowed_types = ["image/jpeg", "image/png"]; // Allowed file types
         $max_size = 5 * 1024 * 1024; // Maximum file size (5MB)
@@ -11,35 +11,39 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         if (in_array($_FILES["image"]["type"], $allowed_types) && $_FILES["image"]["size"] <= $max_size) {
             $file_name = $_FILES["image"]["name"];
             $file_tmp = $_FILES["image"]["tmp_name"];
-
             // Move the uploaded file to a permanent location
             move_uploaded_file($file_tmp, "uploads/" . $file_name);
         } else {
-            $err = "Invalid file type or size.";
+            $err= "Invalid file type or size.";
         }
     } else {
-        $err = "No file was uploaded.";
+        $err="No file was uploaded.";
     }
-    // $name = $_POST["name"];
-    // $email = $_POST["email"];
-    // $number = $_POST["number"];
-    // $clguni = $_POST["coluni"];
-    // $messege = $_POST["Cyear"];
-    // $course = $_POST["course"];
-    // if (filter_var($email, FILTER_VALIDATE_EMAIL) && $name != "" && $email != "") {
-    //     // the message
-    //     $msg = "Name :- $name \nE-Mail :- $email \nMob. :- $number \nCollege / Uni :- $clguni \nCourse:- $course \nYear :- $messege";
-    //     // use wordwrap() if lines are longer than 70 characters;
-    //     $course = "Web Development";
-    //     // send email
-    //     $headers = "From: hrintern@dabotics.com";
-    //     mail($to, $subject, $message, $headers);
-    //     mail("dabotics@gmail.com", "New Intern", $msg, $headers);
-    // } else {
-    //     $err="There are any error in information provided by you ";
-    // }
+    $name = $_POST["name"] ?? "";
+    $email = $_POST["email"] ?? "";
+    $number = $_POST["number"] ?? "";
+    $clguni = $_POST["coluni"] ?? "";
+    $messege = $_POST["Cyear"] ?? "";
+    $course = $_POST["course"] ?? "";
+    if (filter_var($email, FILTER_VALIDATE_EMAIL) && $name !== "" && $email !== "") {
+        // the message
+        $msg = "Name: $name \nE-Mail: $email \nMob.: $number \nCollege / Uni: $clguni \nCourse: $course \nYear: $messege";
+        // use wordwrap() if lines are longer than 70 characters;
+        $course = "Web Development";
+        $to = "hrintern@dabotics.com";
+        $subject = "New Intern";
+        // send email
+        $headers = "From: $email";
+        mail($to, $subject, $msg, $headers);
+        mail("dabotics@gmail.com", $subject, $msg, $headers);
+        $showAlert = true;
+    } else {
+        $err="There are errors in the information provided by you.";
+        $showError = true;
+    }
 }
 ?>
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -70,16 +74,18 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <!-- ======= Header ======= -->
     <?php
     include 'Navebar.php';
-    if ($err != "") {
+    if($err!=""){
         echo '<div class=" mt-5 alert alert-danger alert-dismissible fade show" role="alert">
-        <strong>Error!</strong> ' . $err . '
+        <strong>Error!</strong> '.$err.'
         <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
       </div>';
-    } else {
-        echo '<section id="services" class="forms" style="margin-top: px;">
+    }
+    else
+    {
+        echo'<section id="services" class="forms" style="margin-top: px;">
         <div class="container text-center" id="div2" mt-10>
 
-            <h1>"Welcome' . $name . '"</h1>
+            <h1>"Welcome'. $name.'"</h1>
             <h2>You have succesfully registerd for the Training And Internship Program.</h2>
             
 
@@ -94,7 +100,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     ?>
     <!-- End Header -->
 
-
+    
     <?php
     include 'Footer.php'
     ?>
