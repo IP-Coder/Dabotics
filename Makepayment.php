@@ -8,7 +8,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
-    <title>Payment</title>
+    <title>Make Payment</title>
 </head>
 <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.2/css/bootstrap.min.css" integrity="sha512-YSW8sJ0Mk9X7E42bTzTj8VvZQ0BhP30NkLoNVG6y/78GRyDD9RGhEkb6r/cNpZl25ByZAC5pMk5c3i5a5y5HXw==" crossorigin="anonymous" referrerpolicy="no-referrer" /> -->
 <style>
