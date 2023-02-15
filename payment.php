@@ -63,7 +63,7 @@
                     To complete your regitration please continue
                 </div>
                 <div class="modal-footer">
-                    <a href="internregister.php" class="btn btn-primary">Continue</a>
+                    <a href="https://forms.gle/B5Yx2CJV9G1iWqAW7" class="btn btn-primary">Continue</a>
                 </div>
             </div>
         </div>
