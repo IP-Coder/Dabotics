@@ -71,7 +71,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <?php
     include 'Navebar.php';
     if($err!=""){
-        echo '<div class="alert alert-danger alert-dismissible fade show" role="alert">
+        echo '<div class=" mt-5 alert alert-danger alert-dismissible fade show" role="alert">
         <strong>Error!</strong> '.$err.'
         <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
       </div>';
