@@ -9,37 +9,41 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $max_size = 5 * 1024 * 1024; // Maximum file size (5MB)
         // Check if the file type and size are valid
         if (in_array($_FILES["image"]["type"], $allowed_types) && $_FILES["image"]["size"] <= $max_size) {
-          $file_name = $_FILES["image"]["name"];
-          $file_tmp = $_FILES["image"]["tmp_name"];
-    
-          // Move the uploaded file to a permanent location
-          move_uploaded_file($file_tmp, "uploads/" . $file_name);
+            $file_name = $_FILES["image"]["name"];
+            $file_tmp = $_FILES["image"]["tmp_name"];
+            // Move the uploaded file to a permanent location
+            move_uploaded_file($file_tmp, "uploads/" . $file_name);
         } else {
-          $err= "Invalid file type or size.";
+            $err= "Invalid file type or size.";
         }
-      } else {
+    } else {
         $err="No file was uploaded.";
-      }
-    $name = $_POST["name"];
-    $email = $_POST["email"];
-    $number = $_POST["number"];
-    $clguni = $_POST["coluni"];
-    $messege = $_POST["Cyear"];
-    $course = $_POST["course"];
-    if (filter_var($email, FILTER_VALIDATE_EMAIL) && $name != "" && $email != "") {
+    }
+    $name = $_POST["name"] ?? "";
+    $email = $_POST["email"] ?? "";
+    $number = $_POST["number"] ?? "";
+    $clguni = $_POST["coluni"] ?? "";
+    $messege = $_POST["Cyear"] ?? "";
+    $course = $_POST["course"] ?? "";
+    if (filter_var($email, FILTER_VALIDATE_EMAIL) && $name !== "" && $email !== "") {
         // the message
-        $msg = "Name :- $name \nE-Mail :- $email \nMob. :- $number \nCollege / Uni :- $clguni \nCourse:- $course \nYear :- $messege";
+        $msg = "Name: $name \nE-Mail: $email \nMob.: $number \nCollege / Uni: $clguni \nCourse: $course \nYear: $messege";
         // use wordwrap() if lines are longer than 70 characters;
         $course = "Web Development";
+        $to = "hrintern@dabotics.com";
+        $subject = "New Intern";
         // send email
-        $headers = "From: hrintern@dabotics.com";
-        mail($to, $subject, $message, $headers);
-        mail("dabotics@gmail.com", "New Intern", $msg, $headers);
+        $headers = "From: $email";
+        mail($to, $subject, $msg, $headers);
+        mail("dabotics@gmail.com", $subject, $msg, $headers);
+        $showAlert = true;
     } else {
-        $err="There are any error in information provided by you ";
+        $err="There are errors in the information provided by you.";
+        $showError = true;
     }
 }
 ?>
+
 
 <!DOCTYPE html>
 <html lang="en">
