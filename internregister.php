@@ -46,8 +46,8 @@
                     <input type="tel" name="number" pattern="[0-9]{10}" required class="form-control" id="inputAddress" placeholder="9874****21">
                 </div>
                     <div class="col-6">
-                        <label for="inputAddress" class="form-label">Payment Screenshot<sup style="color: red;">*</sup><sub>Minimum Size (5MB)</sub></label>
-                        <input type="file" name="image" accept="image/jpeg, image/png" required class="form-control" id="inputAddress" placeholder="9874****21">
+                        <label for="inputAddress" class="form-label">Payment Screenshot<sup style="color: red;">*</sup><sub>Maximum Size (5MB)</sub></label>
+                        <input type="file" name="image" accept="image/jpeg, image/png" required class="form-control" id="inputimage" >
                     </div>
                 <div class="text-center "><button class="btn1" type=" submit">Register Here
                     </button></div>
