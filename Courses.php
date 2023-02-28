@@ -4,7 +4,40 @@
 <head>
     <title>Courses</title>
     <?php
-    include 'Header.php'
+    include 'Header.php';
+    $courses = [
+        "Digital Marketing" => 6000,
+        "Web Development" => 6000,
+        "Data Science" => 6000,
+        "Artificial Intelligence" => 6000,
+        "Machine Learning" => 6000,
+        "Graphic Design" => 6000,
+        "Cybersecurity" => 6000,
+        "Project Management" => 6000,
+        "Cloud Computing" => 6000,
+        "Full Stack Development" => 6000,
+        "Blockchain Technology" => 6000,
+        "Mobile App Development" => 6000,
+        "Game Development" => 6000,
+        "Business Analysis" => 6000,
+        "Financial Management" => 6000,
+        "Human Resource Management" => 6000,
+        "Sales and Marketing" => 6000,
+        "Customer Service" => 6000,
+        "Supply Chain Management" => 6000,
+        "Digital Photography" => 6000,
+        "Content Writing" => 6000,
+        "Video Editing" => 6000,
+        "UI/UX Design" => 6000,
+        "Data Analytics" => 6000,
+        "Python Programming" => 6000,
+        "C++ Programming" => 6000,
+        "Java Programming" => 6000,
+        "R Programming" => 6000,
+        "C# Programming" => 6000,
+        "SQL Database Management" => 6000
+    ];
+    
     ?>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7545298674584153" crossorigin="anonymous"></script>
 </head>
@@ -26,12 +59,15 @@
                     course and get in touch if you have any questions.</p>
             </div>
 
-            <div class="row">
-                <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
-                    <div class="box featured">
-                        <h3>Robotics With (AI)</h3>
+            <div class="row ">
+                <?php
+                foreach ($courses as $course => $price) {
+                    echo '
+                    <div class="col-lg-4 mt-4 " data-aos="fade-up" data-aos-delay="200">
+                    <div class="box featured mt-4">
+                        <h3>' . $course . '</h3>
                         <h4><sup>₹
-                            </sup>28000<span> </span></h4>
+                            </sup>'.$price.'<span> </span></h4>
                         <h4><span>Course Duration:120 days</span></h4>
 
                         <ul>
@@ -39,18 +75,21 @@
                             </li>
                             <li><i class="bx bx-check"></i> Training by industry experts.
                             </li>
-                            <li><i class="bx bx-check"></i> IISC And IIT'S Trainers.
+                            <li><i class="bx bx-check"></i> IIC And IIT Trainers.
                             </li>
                             <li><i class="bx bx-check"></i> 10+ Industry project.</li>
                             <li><i class="bx bx-check"></i> 100% job Assistance.
                             </li>
                         </ul>
                         <form>
-                            <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_KS93jQtHlbAeTU" async> </script>
+                            <a href="Contactus.php" class="btn btn-primary">Enroll Now</a>
                         </form>
                     </div>
-                </div>
+                </div>';
+                }
+                ?>
             </div>
+
         </div>
     </section><!-- End Pricing Section -->
 
