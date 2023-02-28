@@ -27,7 +27,6 @@
             </div>
 
             <div class="row">
-
                 <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
                     <div class="box featured">
                         <h3>Robotics With (AI)</h3>
@@ -51,114 +50,8 @@
                         </form>
                     </div>
                 </div>
-                <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
-                    <div class="box featured">
-                        <h3>Python Programming</h3>
-                        <h4><sup>₹
-                            </sup>18000<span> </span></h4>
-                        <h4><span>Course Duration:90 days</span></h4>
-
-                        <ul>
-                            <li><i class="bx bx-check"></i> Only 10 user will in batch.
-                            </li>
-                            <li><i class="bx bx-check"></i> Training by industry experts.
-                            </li>
-                            <li><i class="bx bx-check"></i> IISC And IIT'S Trainers.
-                            </li>
-                            <li><i class="bx bx-check"></i>10+ Industry Project.
-                            </li>
-                            <li><i class="bx bx-check"></i>100% job Assistance.
-                            </li>
-                        </ul>
-                        <form>
-                            <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_KS9DziOEeWv1hI" async> </script>
-                        </form>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
-                    <div class="box featured">
-                        <h3>Data Science & Machine Learning</h3>
-                        </h3>
-                        <h4><sup>₹
-                            </sup>24000<span> </span></h4>
-                        <h4><span>Course Duration:120 days</span></h4>
-
-                        <ul>
-                            <li><i class="bx bx-check"></i> Only 10 user will in batch.
-                            </li>
-                            <li><i class="bx bx-check"></i> Training by industry experts.
-                            </li>
-                            <li><i class="bx bx-check"></i> IISC And IIT'S Trainers.
-                            </li>
-                            <li><i class="bx bx-check"></i>Practical knowledge
-                            </li>
-                            <li><i class="bx bx-check"></i>10+ Industry Project.
-                            </li>
-                            <li><i class="bx bx-check"></i>100% job Assistance.
-                            </li>
-                        </ul>
-                        <form>
-                            <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_KS8bpO7Co0VNdg" async> </script>
-                        </form>
-                    </div>
-                </div>
             </div>
-            <div class="row">
-
-                <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
-                    <div class="box featured">
-                        <h3>Full Stack Web Development</h3>
-                        <h4><sup>₹
-                            </sup>18000<span> </span></h4>
-                        <h4><span>Course Duration:90 days</span></h4>
-
-                        <ul>
-                            <li><i class="bx bx-check"></i> Only 10 user will in batch.
-                            </li>
-                            <li><i class="bx bx-check"></i> Training by industry experts.
-                            </li>
-                            <li><i class="bx bx-check"></i> IISC And IIT'S Trainers.
-                            </li>
-                            <li><i class="bx bx-check"></i>Practical knowledge
-                            </li>
-                            <li><i class="bx bx-check"></i>10+ Industry Project.
-                            </li>
-                            <li><i class="bx bx-check"></i>100% job Assistance.
-                            </li>
-                        </ul>
-                        <form>
-                            <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_KS8rYKrSYJSRAo" async> </script>
-                        </form>
-                    </div>
-                </div>
-                <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
-                    <div class="box featured">
-                        <h3>Computer Vision With Python</h3>
-                        <h4><sup>₹
-                            </sup>21000<span> </span></h4>
-                        <h4><span>Course Duration:90 days</span></h4>
-
-                        <ul>
-                            <li><i class="bx bx-check"></i> Only 10 user will in batch.
-                            </li>
-                            <li><i class="bx bx-check"></i> Training by industry experts.
-                            </li>
-                            <li><i class="bx bx-check"></i> IISC And IIT'S Trainers.
-                            </li>
-                            <li><i class="bx bx-check"></i>Practical knowledge
-                            </li>
-                            <li><i class="bx bx-check"></i>10+ Industry Project.
-                            </li>
-                            <li><i class="bx bx-check"></i>100% job Assistance.
-                            </li>
-                        </ul>
-                        <form>
-                            <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_KS8rYKrSYJSRAo" async> </script>
-                        </form>
-                    </div>
-                </div>
-            </div>
+        </div>
     </section><!-- End Pricing Section -->
 
     <!-- ======= Footer ======= -->
