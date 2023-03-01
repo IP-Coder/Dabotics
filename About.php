@@ -82,7 +82,6 @@
                 </div>
             </div>
 
-            <div class="text-center mt-5 "><a class="btn1" href="Gallery.php">Show Gallery</a></div>
 
         </div>
     </section><!-- End About Us Section -->
