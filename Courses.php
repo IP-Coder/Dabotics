@@ -68,7 +68,7 @@
                         <h3>' . $course . '</h3>
                         <h4><sup>₹
                             </sup>'.$price.'<span> </span></h4>
-                        <h4><span>Course Duration:90 days</span></h4>
+                        <h4><span>Course Duration:45 days</span></h4>
 
                         <ul>
                             <li><i class="bx bx-check"></i> Only 10 user will in batch.
