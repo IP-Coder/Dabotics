@@ -3,7 +3,7 @@
 
 <head>
 
-    <title>Registration Form</title>
+    <title>One Million</title>
     <?php
     include 'Header.php'
     ?>
