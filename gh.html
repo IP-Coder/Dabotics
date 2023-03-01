@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Coming Soon</title>
+	<style>
+		body {
+			background-color: #222;
+			color: white;
+			font-family: Arial, sans-serif;
+			font-size: 24px;
+			text-align: center;
+			margin-top: 50px;
+		}
+
+		h1 {
+			font-size: 72px;
+			margin-bottom: 50px;
+			animation: blink 1s infinite;
+		}
+
+		@keyframes blink {
+			0% {
+				opacity: 1;
+			}
+
+			50% {
+				opacity: 0;
+			}
+
+			100% {
+				opacity: 1;
+			}
+		}
+
+		#typewriter {
+			display: inline-block;
+			white-space: nowrap;
+			overflow: hidden;
+			border-right: .15em solid white;
+			animation: typing 3s steps(30, end);
+			width: 50%;
+		}
+
+		@keyframes typing {
+			from { width: 0 }
+			to { width: 100% }
+		}
+	</style>
+</head>
+<body>
+	<h1>Coming <span id="typewriter"></span></h1>
+	<script>
+		// Define the text to be rendered by the typewriter effect
+		const text = "Soon.";
+
+		// Get the span element that will display the text
+		const typewriter = document.getElementById("typewriter");
+
+		// Define a function to render the text one character at a time
+		function typeWriter() {
+			// Split the text into an array of characters
+			const chars = text.split("");
+
+			// Use a loop to add each character to the span element
+			for (let i = 0; i < chars.length; i++) {
+				setTimeout(() => {
+					typewriter.innerHTML += chars[i];
+				}, i * 100);
+			}
+		}
+
+		// Call the function to render the text
+		typeWriter();
+	</script>
+</body>
+</html>

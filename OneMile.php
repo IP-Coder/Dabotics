@@ -17,18 +17,12 @@
     ?>
     <!-- End Header -->
     <!-- ======= Form Section ======= -->
-    <section id="services" class="forms" style="margin-top: 60px;">
-        <div class="container">
-            <h1 class=" text-center ">Coming Soon</h1>
-
-        </div>
-        <div class="container my-5">
-            
-        </div>
-    </section>
+    <!-- <section id="services" class="forms" style="margin-top: 60px;"> -->
+        <img src="https://img.freepik.com/free-vector/coming-soon-construction-illustration-design_1017-31446.jpg" alt="">            
+    <!-- </section> -->
     <!-- ======= Footer ======= -->
     <?php
-    include 'Footer.php'
+    // include 'Footer.php'
     ?>
     <!-- End Footer -->
 
