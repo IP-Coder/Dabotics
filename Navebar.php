@@ -12,7 +12,7 @@
                     <li><a class="nav-link scrollto target" href="Courses.php">Courses</a></li>
                     <li><a class="nav-link scrollto target" href="Service.php">Services</a></li>
                     <li><a class="nav-link scrollto target" href="Contactus.php">Contact</a></li>
-                    <li><a class="nav-link scrollto target fs-6" href="/OneMile.html"> <b> 1MILE</b></a></li>
+                    <li><a class="nav-link scrollto target fs-6" href="Mile.html"> <b> 1MILE</b></a></li>
 
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
