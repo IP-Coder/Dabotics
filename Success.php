@@ -5,27 +5,37 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     include 'Connection.php';
     $name = $_POST["name"];
     $email = $_POST["email"];
-    $number = $_POST["number"];
-    $clguni = $_POST["coluni"];
-    $messege = $_POST["Cyear"];
+    $phone = $_POST["phone"];
+    $school = $_POST["school"];
     $course = $_POST["course"];
-    if (filter_var($email, FILTER_VALIDATE_EMAIL) && $name != "" && $email != "") {
+    $grade = $_POST["grade"];
+    $demo_mode = $_POST["demo_mode"];
+    $dob = $_POST["dob"];
+    $address = $_POST["address"];
+    $state = $_POST["state"];
+    $city = $_POST["city"];
+
+    if (filter_var($email, FILTER_VALIDATE_EMAIL) && $name != "" && $phone != "") {
         // the message
-        $msg = "Name :- $name \nE-Mail :- $email \nMob. :- $number \nCollege / Uni :- $clguni \nCourse:- $course \nYear :- $messege";
-        // use wordwrap() if lines are longer than 70 characters;
-        $course = "Web Development";
+        $msg = "Name: $name\nEmail: $email\nPhone: $phone\nSchool: $school\nCourse: $course\nGrade: $grade\nDemo Mode: $demo_mode\nDOB: $dob\nAddress: $address\nState: $state\nCity: $city";
+
         // send email
-        $headers = "From: hr@dabotics.com";
-        mail($to, $subject, $message, $headers);
-        mail("dabotics@gmail.com", "New Demo", $msg,$headers);
+        $to = "dabotics@gmail.com";
+        $subject = "New Demo Session Registration";
+        $headers = "From: $email";
+        mail($to, $subject, $msg, $headers);
+
+        // redirect to success page
     } else {
-        echo "There are any error in information provided by you ";
+        echo "There are errors in the information provided by you.";
     }
 }
 ?>
 
+
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <title>Success</title>
     <?php
@@ -33,19 +43,21 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     ?>
 </head>
 <style>
-.btn1 {
-    background: #47b2e4;
-    border: 0;
-    padding: 12px 34px;
-    color: #fff;
-    transition: 0.4s;
-    border-radius: 50px;
-}
-#div2 {
-    padding-top: 11%;
-    color: rgb(55, 81, 126);
-}
+    .btn1 {
+        background: #47b2e4;
+        border: 0;
+        padding: 12px 34px;
+        color: #fff;
+        transition: 0.4s;
+        border-radius: 50px;
+    }
+
+    #div2 {
+        padding-top: 11%;
+        color: rgb(55, 81, 126);
+    }
 </style>
+
 <body class="d-flex flex-column min-vh-100">
     <!-- ======= Header ======= -->
     <?php
@@ -57,11 +69,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
             <h1><?php echo "Welcome $name" ?></h1>
             <h2>You have succesfully registerd for the Demo Session.</h2>
-            <h3 class="mt-3 mb-5">Join our WhatsApp group for further updates.</h3>
+            <!-- <h3 class="mt-3 mb-5">Join our WhatsApp group for further updates.</h3> -->
         </div>
-        <div class="container mt-5 text-center"><a class="btn1" href="https://chat.whatsapp.com/KZRPLIESNtxFZvklrwNUOH">Join
-                Group</a>
-        </div>
+        <!-- <div class="container mt-5 text-center"><a class="btn1" href="https://chat.whatsapp.com/KZRPLIESNtxFZvklrwNUOH">Join -->
+        <!-- Group</a> -->
+        <!-- </div> -->
     </section>
     <?php
     include 'Footer.php'

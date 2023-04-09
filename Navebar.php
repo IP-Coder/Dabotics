@@ -7,11 +7,11 @@
 
             <nav id="navbar" class="navbar">
                 <ul>
-                    <li><a class="nav-link scrollto target" href="index.php">Home</a></li>
-                    <li><a class="nav-link scrollto target" href="About.php">About</a></li>
-                    <li><a class="nav-link scrollto target" href="Courses.php">Courses</a></li>
-                    <li><a class="nav-link scrollto target" href="Service.php">Services</a></li>
-                    <li><a class="nav-link scrollto target" href="Contactus.php">Contact</a></li>
+                    <li><a class="nav-link scrollto target" href="index.php"><b>Home</b></a></li>
+                    <li><a class="nav-link scrollto target" href="About.php"><b>About</b></a></li>
+                    <li><a class="nav-link scrollto target" href="Courses.php"><b>Courses</b></a></li>
+                    <li><a class="nav-link scrollto target" href="Service.php"><b>Services</b></a></li>
+                    <li><a class="nav-link scrollto target" href="Contactus.php"><b>Contact</b></a></li>
                     <li><a class="nav-link scrollto target fs-6" href="Mile.html"> <b> 1MILE</b></a></li>
 
                 </ul>

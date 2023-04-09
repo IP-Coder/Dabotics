@@ -6,38 +6,13 @@
     <?php
     include 'Header.php';
     $courses = [
-        "Digital Marketing" => 6000,
-        "Web Development" => 6000,
-        "Data Science" => 6000,
-        "Artificial Intelligence" => 6000,
-        "Machine Learning" => 6000,
-        "Graphic Design" => 6000,
-        "Cybersecurity" => 6000,
-        "Project Management" => 6000,
-        "Cloud Computing" => 6000,
-        "Full Stack Development" => 6000,
-        "Blockchain Technology" => 6000,
-        "Mobile App Development" => 6000,
-        "Game Development" => 6000,
-        "Business Analysis" => 6000,
-        "Financial Management" => 6000,
-        "Human Resource Management" => 6000,
-        "Sales and Marketing" => 6000,
-        "Customer Service" => 6000,
-        "Supply Chain Management" => 6000,
-        "Digital Photography" => 6000,
-        "Content Writing" => 6000,
-        "Video Editing" => 6000,
-        "UI/UX Design" => 6000,
-        "Data Analytics" => 6000,
-        "Python Programming" => 6000,
-        "C++ Programming" => 6000,
-        "Java Programming" => 6000,
-        "R Programming" => 6000,
-        "C# Programming" => 6000,
-        "SQL Database Management" => 6000
+        "Coding" => 24000,
+        "Robotics" => 24000,
+        "3D Printing" => 18000,
+        "Aeromodelling" => 30000
     ];
-    
+
+
     ?>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7545298674584153" crossorigin="anonymous"></script>
 </head>
@@ -60,6 +35,30 @@
             </div>
 
             <div class="row ">
+
+                <div class="col-lg-4 mt-4 " data-aos="fade-up" data-aos-delay="200">
+                    <div class="box featured mt-4">
+                        <h3>STEM</h3>
+                        <h4><sup>₹
+                            </sup>12000<span> </span></h4>
+                        <h4><span>Course Duration:1 year</span></h4>
+
+                        <ul>
+                            <li><i class="bx bx-check"></i> Only 10 user will in batch.
+                            </li>
+                            <li><i class="bx bx-check"></i> Training by industry experts.
+                            </li>
+                            <li><i class="bx bx-check"></i> Grade 1st to 8th.
+                            </li>
+                            <li><i class="bx bx-check"></i> 10+ Industry project.</li>
+                            <li><i class="bx bx-check"></i> Career oriented.
+                            </li>
+                        </ul>
+                        <form>
+                            <a href="DemoRegister.php" class="btn btn-primary">Enroll Now</a>
+                        </form>
+                    </div>
+                </div>
                 <?php
                 foreach ($courses as $course => $price) {
                     echo '
@@ -67,22 +66,22 @@
                     <div class="box featured mt-4">
                         <h3>' . $course . '</h3>
                         <h4><sup>₹
-                            </sup>'.$price.'<span> </span></h4>
-                        <h4><span>Course Duration:45 days</span></h4>
+                            </sup>' . $price . '<span> </span></h4>
+                        <h4><span>Course Duration:1 year</span></h4>
 
                         <ul>
                             <li><i class="bx bx-check"></i> Only 10 user will in batch.
                             </li>
                             <li><i class="bx bx-check"></i> Training by industry experts.
                             </li>
-                            <li><i class="bx bx-check"></i> IIC And IIT Trainers.
+                            <li><i class="bx bx-check"></i> Grade 4th to 12th.
                             </li>
                             <li><i class="bx bx-check"></i> 10+ Industry project.</li>
-                            <li><i class="bx bx-check"></i> 100% job Assistance.
+                            <li><i class="bx bx-check"></i> Career oriented.
                             </li>
                         </ul>
                         <form>
-                            <a href="Contactus.php" class="btn btn-primary">Enroll Now</a>
+                            <a href="DemoRegister.php" class="btn btn-primary">Enroll Now</a>
                         </form>
                     </div>
                 </div>';
