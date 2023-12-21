@@ -4,9 +4,39 @@
 <head>
 
     <title>DaBotics</title>
-    <?php
-    include 'Header.php'
-    ?>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+    <!-- Bootstrap CSS -->
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css"
+        integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous"> -->
+    <!-- Favicons -->
+    <link href="assets/img/favicon.png" rel="icon">
+    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Jost:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+        rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+    <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7545298674584153"
+        crossorigin="anonymous"></script>
+
+    <!-- Template Main CSS File -->
+    <link href="assets/css/style.css" rel="stylesheet">
     <style>
     .img-fluid {
         max-width: 8rem;
@@ -24,9 +54,6 @@
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
-        background-color: white;
-        padding: 20px;
-        border: 1px solid black;
     }
     </style>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7545298674584153"
@@ -39,6 +66,36 @@
     include 'Navebar.php'
     ?>
     <!-- End Header -->
+
+
+    <!--<div id="simpleModal" class="modal" tabindex="-1" role="dialog">-->
+    <!--    <div class="modal-dialog" role="document">-->
+    <!--        <div class="modal-content">-->
+
+    <!--            <div class="modal-body">-->
+    <!--                <img src="assets/img/popup.png" width="100%" alt="">-->
+    <!--            </div>-->
+    <!--            <div class="modal-footer">-->
+    <!--                <button type="button" class="btn btn-secondary" onclick="closemdl()" data-dismiss="modal">Close</button>-->
+    <!--                <button type="button" class="btn btn-primary text-white" data-dismiss="modal"><a class="text-white" href="DemoRegister.php">Register Now</a></button>-->
+    <!--            </div>-->
+    <!--        </div>-->
+    <!--    </div>-->
+    <!--</div>-->
+    <!--<script type="text/javascript">-->
+    <!--    window.onload = function() {-->
+    <!--        OpenBootstrapPopup();-->
+    <!--    };-->
+
+    <!--    function OpenBootstrapPopup() {-->
+    <!--        $("#simpleModal").modal('show');-->
+    <!--    }-->
+
+    <!--    function closemdl() {-->
+    <!--        $('#simpleModal').modal('hide');-->
+    <!--    }-->
+    <!--</script>-->
+
 
     <!-- ======= Hero Section ======= -->
     <section id="hero" class="d-flex align-items-center">
@@ -361,7 +418,7 @@
                                 <div class="phone">
                                     <i class="bi bi-phone"></i>
                                     <h4>Call:</h4>
-                                    <p>0581-3585883, +91 8126664363</p>
+                                    <p>+91 6386025150 ,+91 9368850126</p>
                                 </div>
                                 <img src="assets/img/contact.png" alt="">
                             </div>
@@ -408,15 +465,6 @@
             </script>
             <!-- My Google Ads Here Dont Touch This Code -->
     </main><!-- End #main -->
-    <div class="fixed-btn">
-        <div class="pjcs3 pjcs5"><a class="pjcs5"
-                href="https://api.whatsapp.com/send/?phone=+918126664363&text=Hi!%20I%20am%20interested%20in%20your%20services%20please%20contact%20me%20shortly."><svg
-                    xmlns="http://www.w3.org/2000/svg" width="45" height="45" fill="currentColor" class="bi bi-whatsapp"
-                    viewBox="0 0 16 16">
-                    <path
-                        d="M13.601 2.326A7.854 7.854 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.057 3.965L0 16l4.204-1.102a7.933 7.933 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.898 7.898 0 0 0 13.6 2.326zM7.994 14.521a6.573 6.573 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.557 6.557 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592zm3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.729.729 0 0 0-.529.247c-.182.198-.691.677-.691 1.654 0 .977.71 1.916.81 2.049.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.171-.48 1.338-.943.164-.464.164-.86.114-.943-.049-.084-.182-.133-.38-.232z" />
-                </svg></a></div>
-    </div>
 
     <!-- ======= Footer ======= -->
     <footer id="footer">
@@ -451,7 +499,7 @@
                 </div>
             </div>
         </div>
-         
+
         <div class="footer-top">
             <div class="container">
                 <div class="row">
@@ -462,7 +510,7 @@
                             DD Puram
                             Bareilly,<br>Uttar Pradesh 243001<br>
                             India <br> </p>
-                        <strong>Phone:</strong> 0581-3585883, <br>+91 8126664363<br>
+                        <strong>Phone:</strong>+91 9368850126<br>+91 6386025150<br>
                         <strong>Email:</strong> contact@dabotics.com<br>
 
                     </div>
@@ -473,6 +521,7 @@
                             <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
                             <li><i class="bx bx-chevron-right"></i> <a href="About.php">About us</a></li>
                             <li><i class="bx bx-chevron-right"></i> <a href="Service.php">Services</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="careers.php">Careers</a></li>
                         </ul>
                     </div>
 
