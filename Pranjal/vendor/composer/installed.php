@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => '__root__',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'f9057a3da90ef96f71eb1f4e3218cac63bd7f54b',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         '__root__' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'f9057a3da90ef96f71eb1f4e3218cac63bd7f54b',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -164,9 +164,9 @@
             'dev_requirement' => false,
         ),
         'mtdowling/jmespath.php' => array(
-            'pretty_version' => '2.6.1',
-            'version' => '2.6.1.0',
-            'reference' => '9b87907a81b87bc76d19a7fb2d61e61486ee9edb',
+            'pretty_version' => '2.9.2',
+            'version' => '2.9.2.0',
+            'reference' => '2157c5e50e813ec6a96c1eed3be7f64a20fb32a8',
             'type' => 'library',
             'install_path' => __DIR__ . '/../mtdowling/jmespath.php',
             'aliases' => array(),
